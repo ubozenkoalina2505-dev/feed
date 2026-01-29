@@ -1,0 +1,38 @@
+name: Update FitDrip feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 19 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install lxml requests
+
+      - name: Build feeds
+        run: |
+          python tools/feed_build.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/fitdrip_ua.xml docs/fitdrip_ru.xml
+          git diff --cached --quiet || git commit -m "Auto update feeds"
+          git push
