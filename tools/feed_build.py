@@ -5,9 +5,9 @@
 FitDrip feed builder (UA/RU) for Horoshop.
 
 - Pulls DSN XML
-- Enforces FitDrip category tree (categories.json)
-- Assigns categoryId per product using vendorCode mapping (category_map.json)
-- Renames <name> by your rules (UA/RU)
+- Enforces FitDrip category tree (tools/categories.json)
+- Assigns categoryId per product using vendorCode mapping (tools/category_map.json)
+- Renames <name> using rules (UA/RU)
 - NEVER changes:
   - offer @id
   - <vendorCode> (article)
@@ -20,6 +20,7 @@ from pathlib import Path
 import requests
 from lxml import etree as ET
 
+# DSN двуязычная выгрузка (как ты давала)
 DSN_URL = "https://dsn.com.ua/content/export/02f6f031be3bbbdac0097758e1aa8dc6.xml"
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -49,11 +50,17 @@ def clean_desc(text: str) -> str:
     if not text:
         return ""
     t = re.sub(r"\s+", " ", str(text)).strip()
+    # обрезаем хвосты типа "Штрихкод/Артикул/..."
     t = re.split(r"(Штрихкод|Артикул|SKU|Код|Виробник|Производитель)\b", t, maxsplit=1)[0]
     return t.strip()
 
 
 def extract_purpose(desc: str) -> str:
+    """
+    Если нет типа/назначения — берём из description.
+    1) пробуем фразу "для ..."
+    2) иначе первые 5–8 слов
+    """
     d = clean_desc(desc)
     if not d:
         return ""
@@ -63,31 +70,82 @@ def extract_purpose(desc: str) -> str:
     return " ".join(d.split()[:8]).strip(" -–—:;,.")
 
 
-def rename_ua(name: str, desc: str) -> str:
+def normalize_base_name(name: str) -> str:
+    """
+    Убираем грубые хвосты вида '500g', '300 caps', '60 tabs', '100 ml'
+    чтобы потом собрать красивое имя.
+    """
     n = (name or "").strip()
-
-    # точечное правило
-    if re.search(r"\bAnimal Flex\b", n, flags=re.I):
-        n = re.sub(r"(?i)\bAnimal Flex\b", "Animal Flex — комплекс для суглобів та зв'язок", n)
-
-    # если нет назначения — добавляем из description
-    if ("—" not in n) and (":" not in n):
-        purpose = extract_purpose(desc)
-        if purpose:
-            n = f"{n} — {purpose}"
+    n = re.sub(r"\b\d+\s?(g|kg|caps|cap|tabs|tab|tablets|ml)\b", "", n, flags=re.I).strip()
+    n = re.sub(r"\s{2,}", " ", n)
     return n
 
 
-def rename_ru(name: str, desc: str) -> str:
+# --- UA naming rules ---
+UA_TYPE_RULES = [
+    (["creatine"], "креатин моногідрат"),
+    (["omega", "omega 3", "epa", "dha"], "омега-3 жирні кислоти"),
+    (["collagen"], "гідролізований колаген"),
+    (["whey", "whey protein", "whey isolate", "isolate", "protein"], "сироватковий протеїн"),
+    (["bcaa"], "амінокислоти BCAA"),
+    (["glutamine"], "глютамін"),
+    (["multivitamin", "multi"], "мультивітамінний комплекс"),
+    (["zinc"], "цинк"),
+    (["magnesium"], "магній"),
+    (["vitamin c"], "вітамін C"),
+    (["vitamin d"], "вітамін D"),
+]
+
+
+def detect_ua_type(base: str) -> str:
+    lname = (base or "").lower()
+    for keys, label in UA_TYPE_RULES:
+        if any(k in lname for k in keys):
+            return label
+    return ""
+
+
+def rename_ua(name: str, desc: str, vendor: str = "") -> str:
     n = (name or "").strip()
 
+    # точечный кейс
     if re.search(r"\bAnimal Flex\b", n, flags=re.I):
-        n = re.sub(r"(?i)\bAnimal Flex\b", "Animal Flex — комплекс для суставов и связок", n)
+        n = re.sub(r"(?i)\bAnimal Flex\b", "Animal Flex", n).strip()
+        return f"{n} {vendor}".strip() + " — комплекс для суглобів та зв'язок"
 
-    if ("—" not in n) and (":" not in n):
+    base = normalize_base_name(n)
+    v = (vendor or "").strip()
+
+    # 1) Пытаемся определить тип по ключевым словам в названии
+    product_type = detect_ua_type(base)
+
+    if product_type:
+        if v:
+            return f"{base} {v} — {product_type}"
+        return f"{base} — {product_type}"
+
+    # 2) Если в названии нет назначения — добавляем из description
+    if ("—" not in base) and (":" not in base):
         purpose = extract_purpose(desc)
         if purpose:
-            n = f"{n} — {purpose}"
+            if v:
+                return f"{base} {v} — {purpose}"
+            return f"{base} — {purpose}"
+
+    # 3) Если ничего не нашли — хотя бы добавим бренд (если его нет)
+    if v and v.lower() not in base.lower():
+        return f"{base} {v}"
+    return n
+
+
+# --- RU naming rules (минимально, чтобы был 2-й файл) ---
+def rename_ru(name: str, desc: str, vendor: str = "") -> str:
+    # если не хочешь русские правки — можно оставить почти как есть
+    n = (name or "").strip()
+    base = normalize_base_name(n)
+    v = (vendor or "").strip()
+    if v and v.lower() not in base.lower():
+        return f"{base} {v}"
     return n
 
 
@@ -95,8 +153,8 @@ def apply_categories(shop: ET._Element, categories_def: dict, lang: str) -> None
     old = shop.find("categories")
     if old is not None:
         shop.remove(old)
-    cats = ET.SubElement(shop, "categories")
 
+    cats = ET.SubElement(shop, "categories")
     for c in categories_def.get("categories", []):
         el = ET.SubElement(cats, "category")
         el.set("id", str(c["id"]))
@@ -109,8 +167,7 @@ def apply_categories(shop: ET._Element, categories_def: dict, lang: str) -> None
 def apply_category_ids(offers_node: ET._Element, category_map: dict) -> None:
     """
     Assign <categoryId> by vendorCode (article).
-    If there is no mapping for a product, we keep its current categoryId as-is,
-    but we NEVER replace it with brand.
+    If mapping is missing, keep the current <categoryId> (no brand fallback).
     """
     for offer in offers_node.findall("offer"):
         vendor_code = (offer.findtext("vendorCode") or "").strip()
@@ -133,6 +190,7 @@ def build(lang: str) -> ET._ElementTree:
 
     tree = fetch_xml(DSN_URL)
     root = tree.getroot()
+
     shop = root.find("shop")
     if shop is None:
         raise RuntimeError("Не найден <shop>")
@@ -150,11 +208,16 @@ def build(lang: str) -> ET._ElementTree:
         name_el = offer.find("name")
         if name_el is None:
             continue
+
         desc_el = offer.find("description")
         name_txt = name_el.text or ""
         desc_txt = (desc_el.text if desc_el is not None else "") or ""
+        vendor = offer.findtext("vendor") or ""
 
-        name_el.text = rename_ua(name_txt, desc_txt) if lang == "ua" else rename_ru(name_txt, desc_txt)
+        if lang == "ua":
+            name_el.text = rename_ua(name_txt, desc_txt, vendor)
+        else:
+            name_el.text = rename_ru(name_txt, desc_txt, vendor)
 
     return tree
 
