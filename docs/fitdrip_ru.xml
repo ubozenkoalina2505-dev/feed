@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-11 03:39">
+<yml_catalog date="2026-10-12 03:30">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -1433,7 +1433,7 @@
     <price>528</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>579</quantity_in_stock>
+    <quantity_in_stock>577</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/24553782282982_+768aaee1ae.png</picture>
     <picture>https://dsn.ua/content/images/50/myproteinomega-3-6-9-120-caps-78287029521553_+536328c7e1.png</picture>
     <vendorCode>100-78-7101714-20</vendorCode>
@@ -3459,7 +3459,7 @@
     <price>420</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>66</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/78826601030513_+9c2a675724.jpg</picture>
     <picture>https://dsn.ua/content/images/19/now-foodsmaca-500mg-100vcaps-28975983504464_+34b0e86600.png</picture>
     <vendorCode>100-99-8093275-20</vendorCode>
@@ -3482,7 +3482,7 @@
     <price>433</price>
     <currencyId>UAH</currencyId>
     <categoryId>1073</categoryId>
-    <quantity_in_stock>177</quantity_in_stock>
+    <quantity_in_stock>157</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/69533729806068_+66341ebcf4.jpg</picture>
     <picture>https://dsn.ua/content/images/23/puritans-prideglucosamine-chondroitin-msm-double-strength-60-caplets-79525415053527_+500ce04119.png</picture>
     <vendorCode>100-18-6397199-20</vendorCode>
@@ -3785,7 +3785,7 @@
     <price>556</price>
     <currencyId>UAH</currencyId>
     <categoryId>1073</categoryId>
-    <quantity_in_stock>427</quantity_in_stock>
+    <quantity_in_stock>421</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/50025856204829_+815e1ae07c.jpeg</picture>
     <picture>https://dsn.ua/content/images/28/puritans-prideone-daily-mens-multivitamin-100-kaps-21594530205440_+a2f4a7fba8.png</picture>
     <picture>https://dsn.ua/content/images/28/puritans-prideone-daily-mens-multivitamin-100-kaps-68770928524303_+c45ced1f4b.png</picture>
@@ -4329,7 +4329,7 @@
     <price>246</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/80132902793018_+b8536bce09.jpg</picture>
     <picture>https://dsn.ua/content/images/26/stark-pharmstark-melatonin-5mg-120tabs-20150375568326_+e0d41fbcf5.png</picture>
     <vendorCode>100-61-9851471-20</vendorCode>
@@ -4664,7 +4664,7 @@
     <price>280</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1100</quantity_in_stock>
+    <quantity_in_stock>1099</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/50288633768931_+f59bc6abff.jpg</picture>
     <picture>https://dsn.ua/content/images/42/now-foodsmelatonin-5mg-60vcaps-36267711327619_+190c024542.jpg</picture>
     <picture>https://dsn.ua/content/images/42/now-foodsmelatonin-5mg-60vcaps-26294071941175_+bf8b1dd13f.jpg</picture>
@@ -4688,7 +4688,7 @@
     <price>323</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/16/now-foodsvitamin-b-12-100lozenges-59477149022181_+b17079cde9.jpg</picture>
     <picture>https://dsn.ua/content/images/16/now-foodsvitamin-b-12-100lozenges-13011981740728_+c2052c271b.jpg</picture>
     <vendorCode>100-17-9896251-20</vendorCode>
@@ -5027,7 +5027,7 @@
     <price>1355</price>
     <currencyId>UAH</currencyId>
     <categoryId>1077</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/85846912923845_+fad8d31b12.png</picture>
     <picture>https://dsn.ua/content/images/22/monstersstrong-max-80g-x-20sht-cocoa-47153708902056_+33c0eb4310.png</picture>
     <vendorCode>100-76-8914391-20</vendorCode>
@@ -5491,7 +5491,7 @@
     <price>979</price>
     <currencyId>UAH</currencyId>
     <categoryId>1073</categoryId>
-    <quantity_in_stock>177</quantity_in_stock>
+    <quantity_in_stock>176</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/96249185606773_+626c0c69e1.jpg</picture>
     <picture>https://dsn.ua/content/images/44/puritans-prideomega-3-1000mg-250softgels-89270260998436_+4e2ddea098.png</picture>
     <vendorCode>100-61-4909230-20</vendorCode>
@@ -5651,7 +5651,7 @@
     <price>1355</price>
     <currencyId>UAH</currencyId>
     <categoryId>1077</categoryId>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <picture>https://dsn.ua/content/images/32/11420873300365_+5317380553.png</picture>
     <picture>https://dsn.ua/content/images/32/monsters-strong-max-80g-x-20sht-strawberry-79058618538829_+6ef69f6d3d.png</picture>
     <vendorCode>100-86-2384758-20</vendorCode>
@@ -10302,7 +10302,7 @@
     <price>1488</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/26495174181418_+3e6d8e07e7.png</picture>
     <picture>https://dsn.ua/content/images/22/power-proprotein-bar-nutella-32-20x60g-nut-without-sugar-77296640236318_+7d756981b1.png</picture>
     <vendorCode>100-12-8825666-20</vendorCode>
@@ -11549,7 +11549,7 @@
     <price>327</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>115</quantity_in_stock>
+    <quantity_in_stock>114</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/swansonselenium-100mcg-200-caps-34794486001323_+f67b6e72f4.jpg</picture>
     <picture>https://dsn.ua/content/images/18/swansonselenium-100mcg-200-caps-28413480329513_+fc69b41d2a.png</picture>
     <vendorCode>100-44-4832354-20</vendorCode>
@@ -11571,7 +11571,7 @@
     <price>121</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/55674422473777_+4ff6c25607.png</picture>
     <picture>https://dsn.ua/content/images/19/swansonmelatonin-3-mg-60-caps-79718105129237_+c9874d499f.png</picture>
     <vendorCode>100-64-0969295-20</vendorCode>
@@ -11768,7 +11768,7 @@
     <price>364</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>486</quantity_in_stock>
+    <quantity_in_stock>484</quantity_in_stock>
     <picture>https://dsn.ua/content/images/32/27991583555832_+56daea4e43.png</picture>
     <picture>https://dsn.ua/content/images/32/swansonvitamin-c-w-rose-hips-1000mg-90-caps-71603271880801_+65f294b773.png</picture>
     <vendorCode>100-66-6615636-20</vendorCode>
@@ -15265,7 +15265,7 @@
     <price>329</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>131</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/chelated-zinc-30-mg-90-cap-27279062088112_+d96928a167.jpg</picture>
     <picture>https://dsn.ua/content/images/44/chelated-zinc-30-mg-90-cap-35729677802002_+81e5b98435.jpg</picture>
     <vendorCode>100-70-1369590-20</vendorCode>
@@ -15287,7 +15287,7 @@
     <price>192</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1184</quantity_in_stock>
+    <quantity_in_stock>1183</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/swansonzinc-picolinate-22-mg-60-caps-66569338310336_+0b36953bdf.jpg</picture>
     <picture>https://dsn.ua/content/images/45/swansonzinc-picolinate-22-mg-60-caps-60793967228841_+0cecd6fcdd.png</picture>
     <vendorCode>100-98-2790940-20</vendorCode>
@@ -15514,7 +15514,7 @@
     <price>143</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>426</quantity_in_stock>
+    <quantity_in_stock>425</quantity_in_stock>
     <picture>https://dsn.ua/content/images/12/swansonbiotin-5000-30-caps-75340682769994_+020ce98bf7.jpg</picture>
     <picture>https://dsn.ua/content/images/12/swansonbiotin-5000-30-caps-25644658022862_+db8d4d9fa2.png</picture>
     <vendorCode>100-93-5003403-20</vendorCode>
@@ -15667,7 +15667,7 @@
     <price>192</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>571</quantity_in_stock>
+    <quantity_in_stock>570</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/77160459703915_+04aac243b6.png</picture>
     <picture>https://dsn.ua/content/images/27/swansongarcinia-cambogia-5-1-extract-80-mg-60-caps-27415190108480_+2e8a091a50.png</picture>
     <vendorCode>100-85-2286059-20</vendorCode>
@@ -16298,7 +16298,7 @@
     <price>393</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>2220</quantity_in_stock>
+    <quantity_in_stock>2214</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/swansonashwagandha-450mg-100caps-78923070062510_+7c984b3661.jpg</picture>
     <picture>https://dsn.ua/content/images/42/37605687288386_+b66d9ff66c.jpg</picture>
     <vendorCode>100-93-4411784-20</vendorCode>
@@ -16562,7 +16562,7 @@
     <price>223</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>2512</quantity_in_stock>
+    <quantity_in_stock>2510</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/swansonchromium-picolinate-200mg-100caps-13257195791354_+40a9a8e11c.jpg</picture>
     <picture>https://dsn.ua/content/images/17/swansonchromium-picolinate-200mg-100caps-85829659911348_+63f52c3804.png</picture>
     <vendorCode>100-96-0574776-20</vendorCode>
@@ -16628,7 +16628,7 @@
     <price>690</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>478</quantity_in_stock>
+    <quantity_in_stock>477</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/77022908955292_+c898aac307.png</picture>
     <picture>https://dsn.ua/content/images/26/swansontongat-ali-120-caps-20164884884668_+303dc475ed.png</picture>
     <vendorCode>100-21-9942407-20</vendorCode>
@@ -16650,7 +16650,7 @@
     <price>421</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>120</quantity_in_stock>
+    <quantity_in_stock>119</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/swansonl-selenomethionine-100mcg-300cap-14373172983322_+71455108ad.jpg</picture>
     <picture>https://dsn.ua/content/images/27/swansonl-selenomethionine-100mcg-300cap-54841373710544_+4a06fdde4d.png</picture>
     <vendorCode>100-97-0313414-20</vendorCode>
@@ -18086,7 +18086,7 @@
     <price>942</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1224</quantity_in_stock>
+    <quantity_in_stock>1223</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/53216642636097_+eb991c8a4d.jpg</picture>
     <picture>https://dsn.ua/content/images/8/57098077773402_+fa20edbe6d.jpg</picture>
     <vendorCode>100-89-7242277-20</vendorCode>
@@ -19009,7 +19009,7 @@
     <price>760</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>35</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/37248247013344_+7cc461291c.jpg</picture>
     <picture>https://dsn.ua/content/images/27/solgarchelated-magnesium-100-tab-31521823123259_+0b37197ff0.jpg</picture>
     <vendorCode>100-90-6205140-20</vendorCode>
@@ -19095,7 +19095,7 @@
     <price>775</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>195</quantity_in_stock>
+    <quantity_in_stock>194</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/solgarfolic-acid-400mcg-250-tab-66138442826762_+43676e8d9e.jpg</picture>
     <picture>https://dsn.ua/content/images/40/solgarfolic-acid-400mcg-250-tab-42576608234742_+7a66675cf0.jpg</picture>
     <vendorCode>100-99-5268219-20</vendorCode>
@@ -19117,7 +19117,7 @@
     <price>775</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/solgarvitamin-c-wrose-hip-1000-mg-100-tab-21199274541760_+6e3d689c57.jpg</picture>
     <picture>https://dsn.ua/content/images/10/solgarvitamin-c-wrose-hip-1000-mg-100-tab-49376004659417_+e7d6189a1f.png</picture>
     <vendorCode>100-23-8776191-20</vendorCode>
@@ -19139,7 +19139,7 @@
     <price>556</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>437</quantity_in_stock>
+    <quantity_in_stock>434</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/solgarzinc-picolinate-22-mg-100-tab-27980747732813_+9a8ac88a1b.jpg</picture>
     <picture>https://dsn.ua/content/images/22/solgarzinc-picolinate-22-mg-100-tab-15528020145367_+850f79aff6.png</picture>
     <vendorCode>100-97-2438284-20</vendorCode>
@@ -21018,7 +21018,7 @@
     <price>1110</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1072</quantity_in_stock>
+    <quantity_in_stock>1063</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/now-foodseve-90softgels-59734259325940_+de004dc789.jpg</picture>
     <picture>https://dsn.ua/content/images/47/now-foodseve-90softgels-28644355233118_+af3183e023.jpg</picture>
     <picture>https://dsn.ua/content/images/47/now-foodseve-90softgels-77497320454389_+c5fd644ba5.jpg</picture>
@@ -21557,7 +21557,7 @@
     <price>337</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>2085</quantity_in_stock>
+    <quantity_in_stock>2084</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/84145195103221_+1a5409d740.jpg</picture>
     <picture>https://dsn.ua/content/images/22/87309701151325_+529e166149.jpg</picture>
     <vendorCode>100-17-9652087-20</vendorCode>
@@ -23605,7 +23605,7 @@
     <price>2012</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/93194116756629_+1ae609f6e2.jpg</picture>
     <picture>https://dsn.ua/content/images/37/myproteinsoy-protein-isolate-2500g-vanilla-36905872842972_+4e02869a05.png</picture>
     <vendorCode>100-52-0207962-20</vendorCode>
@@ -26975,7 +26975,7 @@
     <price>985</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/36033986133844_+8a3d92dac2.jpg</picture>
     <picture>https://dsn.ua/content/images/31/myproteinbaked-cookie-12x75g-choco-chip-73173367970017_+6f556c4da2.png</picture>
     <vendorCode>100-86-0319278-20</vendorCode>
@@ -27106,7 +27106,7 @@
     <price>555</price>
     <currencyId>UAH</currencyId>
     <categoryId>1073</categoryId>
-    <quantity_in_stock>461</quantity_in_stock>
+    <quantity_in_stock>459</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/puritans-prideone-daily-womens-multivitamin-100-caps-36584546267734_+8cc43121d0.jpg</picture>
     <picture>https://dsn.ua/content/images/37/puritans-prideone-daily-womens-multivitamin-100-caps-88110379950350_+e29e3a5ff4.png</picture>
     <picture>https://dsn.ua/content/images/37/puritans-prideone-daily-womens-multivitamin-100-caps-79804380167721_+b7c1c13d65.png</picture>
@@ -27376,7 +27376,7 @@
     <price>594</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>45</quantity_in_stock>
+    <quantity_in_stock>42</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/now-foodszinc-picolinate-50mg-120-vcaps-50234959538830_+a9d742a106.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodszinc-picolinate-50mg-120-vcaps-25050413621056_+cf8294b346.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodszinc-picolinate-50mg-120-vcaps-34543546776505_+dc5bdaee1a.jpg</picture>
@@ -27768,7 +27768,7 @@
     <price>659</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>402</quantity_in_stock>
+    <quantity_in_stock>400</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/61358440859539_+c20eadca79.jpg</picture>
     <picture>https://dsn.ua/content/images/10/now-foodsdaily-vits-100tabs-65305940769691_+19366d3021.png</picture>
     <picture>https://dsn.ua/content/images/10/now-foodsdaily-vits-100tabs-86048402450479_+e48cf24e5e.png</picture>
@@ -28948,7 +28948,7 @@
     <price>566</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>153</quantity_in_stock>
+    <quantity_in_stock>148</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/swansonrhodiola-rosea-rood-400mg-100caps-66776231326619_+8271d6774b.jpg</picture>
     <picture>https://dsn.ua/content/images/27/swansonrhodiola-rosea-rood-400mg-100caps-56349864094771_+8d65b41d22.png</picture>
     <vendorCode>100-81-8839634-20</vendorCode>
@@ -28970,7 +28970,7 @@
     <price>139</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>107</quantity_in_stock>
+    <quantity_in_stock>106</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/swansonst.-johns-wort-375mg-60caps-33995094608743_+d6e1beb7e3.jpg</picture>
     <picture>https://dsn.ua/content/images/28/swansonst.-johns-wort-375mg-60caps-68784317534221_+4f2c90680e.png</picture>
     <vendorCode>100-79-5898761-20</vendorCode>
@@ -29322,7 +29322,7 @@
     <price>821</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1361</quantity_in_stock>
+    <quantity_in_stock>1360</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/swansonalpha-lipoic-acide-600mg-60cap-29195952015476_+0b22d192b0.jpg</picture>
     <picture>https://dsn.ua/content/images/44/swansonalpha-lipoic-acide-600mg-60cap-50773154974758_+e52ccd286f.png</picture>
     <vendorCode>100-58-6763343-20</vendorCode>
@@ -29626,7 +29626,7 @@
     <price>417</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>340</quantity_in_stock>
+    <quantity_in_stock>339</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/swansonfull-spect-boswellia-and-curcumin-60-caps-18801569842044_+ce1cabd608.jpg</picture>
     <picture>https://dsn.ua/content/images/8/swansonfull-spect-boswellia-and-curcumin-60-caps-69055156612989_+e3e679eee0.png</picture>
     <vendorCode>100-37-4856184-20</vendorCode>
@@ -29648,7 +29648,7 @@
     <price>385</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1146</quantity_in_stock>
+    <quantity_in_stock>1143</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/swansonboswellia-double-strength-800-mg-60-caps-90141506386012_+a5b4cd7b21.jpg</picture>
     <picture>https://dsn.ua/content/images/9/swansonboswellia-double-strength-800-mg-60-caps-95923233236122_+8e60a79283.png</picture>
     <vendorCode>100-35-0648434-20</vendorCode>
@@ -30312,7 +30312,7 @@
     <price>900</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>749</quantity_in_stock>
+    <quantity_in_stock>746</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/27723532591974_+c25b43da18.jpg</picture>
     <picture>https://dsn.ua/content/images/5/myproteincreatine-monohydrate-500g-88349595196653_+335b5dbfab.png</picture>
     <vendorCode>100-29-6332084-20</vendorCode>
@@ -30441,7 +30441,7 @@
     <price>295</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/47363247811690_+35f10e2974.jpg</picture>
     <picture>https://dsn.ua/content/images/28/stark-pharmcon-cret-750mg-60caps-29600271737850_+fd8f552ff0.png</picture>
     <vendorCode>2022-09-0397</vendorCode>
@@ -32260,7 +32260,7 @@
     <price>985</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>79</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/76535812539256_+a84119fe64.jpg</picture>
     <picture>https://dsn.ua/content/images/24/myproteinbaked-cookie-12x75g-chocolate-13933598227692_+d46e2d6d0b.jpg</picture>
     <vendorCode>2022-09-0715</vendorCode>
@@ -35806,7 +35806,7 @@
     <price>147</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1883</quantity_in_stock>
+    <quantity_in_stock>1882</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/swansonzinc-citrate-30-mg-60caps-13329879777459_+1f372f2d6a.jpg</picture>
     <picture>https://dsn.ua/content/images/31/swansonzinc-citrate-30-mg-60caps-88193435412309_+2afcba1ce3.png</picture>
     <vendorCode>100-74-2160613-20</vendorCode>
@@ -35927,7 +35927,7 @@
     <price>680</price>
     <currencyId>UAH</currencyId>
     <categoryId>1078</categoryId>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/nutrexcreatine-drive-300g-38623958278862_+ad85f6ee01.jpg</picture>
     <picture>https://dsn.ua/content/images/41/nutrexcreatine-drive-300g-65610878172403_+8558139385.jpg</picture>
     <vendorCode>2022-09-9936</vendorCode>
@@ -36082,7 +36082,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>1078</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://dsn.ua/content/images/16/12641357065232_+8ce5d9891f.jpg</picture>
     <picture>https://dsn.ua/content/images/16/nutrexbcaa-6000-fruit-punch-30srv-warrior-37350534436710_+f31b758e0e.jpg</picture>
     <vendorCode>2022-09-9946</vendorCode>
@@ -36099,7 +36099,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>1078</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/27696264332545_+d452ab03e6.jpg</picture>
     <picture>https://dsn.ua/content/images/17/nutrexbcaa-6000-watermelon-30srv-66420957707992_+02b3b641e5.jpg</picture>
     <vendorCode>2022-09-9947</vendorCode>
@@ -39029,7 +39029,7 @@
     <price>54</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>81</quantity_in_stock>
+    <quantity_in_stock>78</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/craft-wheyprotein-cookie-60g-black-11423246100149_+bb56d49491.jpg</picture>
     <picture>https://dsn.ua/content/images/34/craft-wheyprotein-cookie-60g-black-21481813978586_+5572ea4a80.png</picture>
     <vendorCode>2022-09-1025</vendorCode>
@@ -39063,7 +39063,7 @@
     <price>54</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>901</quantity_in_stock>
+    <quantity_in_stock>900</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/craft-wheyprotein-cookie-60g-chocolate-18054406630695_+01d88d5c7c.jpg</picture>
     <picture>https://dsn.ua/content/images/36/craft-wheyprotein-cookie-60g-chocolate-70231542250416_+1ecfff74ee.png</picture>
     <vendorCode>2022-09-1027</vendorCode>
@@ -39148,7 +39148,7 @@
     <price>398</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>162</quantity_in_stock>
+    <quantity_in_stock>160</quantity_in_stock>
     <picture>https://dsn.ua/content/images/33/stark-pharmcreatine-250g-72061557313682_+35fe300b1a.jpg</picture>
     <picture>https://dsn.ua/content/images/33/stark-pharmcreatine-250g-63378439705507_+5381d49e52.png</picture>
     <vendorCode>100-91-4700106-20</vendorCode>
@@ -40690,7 +40690,7 @@
     <price>650</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/now-foodsl-tryptophan-500mg-60-vcaps-51241883819565_+22a2208d33.jpg</picture>
     <picture>https://dsn.ua/content/images/19/now-foodsl-tryptophan-500mg-60-vcaps-38401616285694_+78a4e67029.jpg</picture>
     <picture>https://dsn.ua/content/images/19/now-foodsl-tryptophan-500mg-60-vcaps-34230871242935_+a732c8b576.jpg</picture>
@@ -40788,7 +40788,7 @@
     <price>462</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>412</quantity_in_stock>
+    <quantity_in_stock>411</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/now-foodsvit-d-3-5000-iu-chewable-mint-120-loz-12515021743616_+ef8d346730.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsvit-d-3-5000-iu-chewable-mint-120-loz-19087809829928_+1cc1db5e0f.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsvit-d-3-5000-iu-chewable-mint-120-loz-94430076148747_+cb71b6b89a.jpg</picture>
@@ -40826,7 +40826,7 @@
     <price>312</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2615</quantity_in_stock>
+    <quantity_in_stock>2609</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/now-foodsvit-d-3-1000iu-180-sgels-94427443666057_+d40ae800c5.jpg</picture>
     <picture>https://dsn.ua/content/images/26/now-foodsvit-d-3-1000iu-180-sgels-23906126310167_+b949da4d5e.jpg</picture>
     <picture>https://dsn.ua/content/images/26/now-foodsvit-d-3-1000iu-180-sgels-93133287797229_+e6b1864347.jpg</picture>
@@ -40845,7 +40845,7 @@
     <price>270</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>839</quantity_in_stock>
+    <quantity_in_stock>835</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/now-foodsvit-d-3-2000iu-120-sgels-95110597394732_+743fd1b5ce.jpg</picture>
     <picture>https://dsn.ua/content/images/27/now-foodsvit-d-3-2000iu-120-sgels-95689272718250_+9371ac3d2d.jpg</picture>
     <picture>https://dsn.ua/content/images/27/now-foodsvit-d-3-2000iu-120-sgels-46724000394473_+89d43953a3.jpg</picture>
@@ -40864,7 +40864,7 @@
     <price>390</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>975</quantity_in_stock>
+    <quantity_in_stock>973</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/now-foodsvit-d-3-5000iu-120-sgels-83296503935526_+bec68b5517.jpg</picture>
     <picture>https://dsn.ua/content/images/29/now-foodsvit-d-3-5000iu-120-sgels-32149659668384_+91b7e8f87f.jpg</picture>
     <picture>https://dsn.ua/content/images/29/now-foodsvit-d-3-5000iu-120-sgels-23465098949483_+77efcb49b3.jpg</picture>
@@ -41092,7 +41092,7 @@
     <price>296</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/now-foodsbiotin-1000mcg-100-vcaps-81929988235134_+353c962cf1.jpg</picture>
     <picture>https://dsn.ua/content/images/42/now-foodsbiotin-1000mcg-100-vcaps-95315958077864_+d220529a95.jpg</picture>
     <picture>https://dsn.ua/content/images/42/now-foodsbiotin-1000mcg-100-vcaps-93872492037374_+4089b0ea9c.jpg</picture>
@@ -41149,7 +41149,7 @@
     <price>718</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1448</quantity_in_stock>
+    <quantity_in_stock>1444</quantity_in_stock>
     <picture>https://dsn.ua/content/images/46/now-foodsbiotin-10mg-10000mcg-120-vcaps-70313504614685_+1b21f16932.jpg</picture>
     <picture>https://dsn.ua/content/images/46/now-foodsbiotin-10mg-10000mcg-120-vcaps-98915336146626_+0e38e6be6e.jpg</picture>
     <picture>https://dsn.ua/content/images/46/now-foodsbiotin-10mg-10000mcg-120-vcaps-87333478436994_+194254de3e.jpg</picture>
@@ -41339,7 +41339,7 @@
     <price>555</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/now-foodsc-1000-zinc-immune-90-vcaps-69147864134215_+d497446b56.jpg</picture>
     <picture>https://dsn.ua/content/images/6/now-foodsc-1000-zinc-immune-90-vcaps-12587444226546_+2b21c42000.jpg</picture>
     <picture>https://dsn.ua/content/images/6/now-foodsc-1000-zinc-immune-90-vcaps-89427233201753_+b2bf3d0dc4.jpg</picture>
@@ -41586,7 +41586,7 @@
     <price>693</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/now-foodsmagnesium-citrate-200mg-100-tabs-29004454279983_+efdaf9ab34.jpg</picture>
     <picture>https://dsn.ua/content/images/19/now-foodsmagnesium-citrate-200mg-100-tabs-32768550344018_+f949a290e6.jpg</picture>
     <picture>https://dsn.ua/content/images/19/now-foodsmagnesium-citrate-200mg-100-tabs-27106029847846_+bac11bb02f.jpg</picture>
@@ -41605,7 +41605,7 @@
     <price>647</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/now-foodsmagnesium-citrate-134mg-90-sgels-99566712404815_+663fad8bbe.jpg</picture>
     <picture>https://dsn.ua/content/images/20/now-foodsmagnesium-citrate-134mg-90-sgels-44327354338764_+800858e30c.jpg</picture>
     <picture>https://dsn.ua/content/images/20/now-foodsmagnesium-citrate-134mg-90-sgels-44359855102952_+afa7c24fc3.jpg</picture>
@@ -41872,7 +41872,7 @@
     <price>330</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/now-foodsselenium-200-mcg-90-vcaps-51871271249247_+570e726f95.jpg</picture>
     <picture>https://dsn.ua/content/images/34/now-foodsselenium-200-mcg-90-vcaps-50592022487813_+08e906aa7f.jpg</picture>
     <picture>https://dsn.ua/content/images/34/now-foodsselenium-200-mcg-90-vcaps-67230374132923_+8f32757a5a.jpg</picture>
@@ -41967,7 +41967,7 @@
     <price>623</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/now-foodszinc-glycinate-30mg-120-sgels-37398528428343_+1e6c909f87.jpg</picture>
     <picture>https://dsn.ua/content/images/39/now-foodszinc-glycinate-30mg-120-sgels-94313212480832_+f7ddfc97cc.jpg</picture>
     <picture>https://dsn.ua/content/images/39/now-foodszinc-glycinate-30mg-120-sgels-33966371309614_+a2aec50e2e.jpg</picture>
@@ -42043,7 +42043,7 @@
     <price>193</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>229</quantity_in_stock>
+    <quantity_in_stock>227</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/now-foodsomega-3-1000mg-30-sgels-93442525897166_+8f485620e3.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsomega-3-1000mg-30-sgels-62215938922915_+206d0bf4e1.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsomega-3-1000mg-30-sgels-66462609818298_+193e7d9296.jpg</picture>
@@ -42095,12 +42095,12 @@
     <param name="Категории">Сердечно-сосудистая система|Омега 3</param>
     <param name="Штрихкод">733739016522</param>
    </offer>
-   <offer id="18395" group_id="14948452" available="true">
+   <offer id="18395" group_id="14948452" available="">
     <url>https://dsn.ua/ru/omega-3-enteric-90-sgels/</url>
     <price>555</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/46/omega-3-enteric-90-sgels-45285956806767_+457e3e6eaf.jpg</picture>
     <picture>https://dsn.ua/content/images/46/omega-3-enteric-90-sgels-70558334188317_+068f8c9dc4.jpg</picture>
     <picture>https://dsn.ua/content/images/46/omega-3-enteric-90-sgels-82336136166390_+229fe9370a.jpg</picture>
@@ -42310,7 +42310,7 @@
     <price>555</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/now-foodsomega-3-6-9-1000-mg-100-sgels-56434107410118_+e0755208f2.jpg</picture>
     <picture>https://dsn.ua/content/images/8/now-foodsomega-3-6-9-1000-mg-100-sgels-96973226747230_+d1bc542fc5.jpg</picture>
     <picture>https://dsn.ua/content/images/8/now-foodsomega-3-6-9-1000-mg-100-sgels-33128728590271_+eb817088ab.jpg</picture>
@@ -42401,12 +42401,12 @@
     <param name="Категории">Мужское здоровье|Бустер тестостерона|Травы&gt;|Якірці (Tribulus)</param>
     <param name="Штрихкод">733739021687</param>
    </offer>
-   <offer id="18412" group_id="14965452" available="true">
+   <offer id="18412" group_id="14965452" available="">
     <url>https://dsn.ua/ru/now-foods/mct-oil-1000-mg-150-sgels/</url>
     <price>735</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/13/now-foodsmct-oil-1000-mg-150-sgels-88247023507797_+e62230069f.jpg</picture>
     <picture>https://dsn.ua/content/images/13/now-foodsmct-oil-1000-mg-150-sgels-75893839277011_+44eaad875c.png</picture>
     <vendorCode>2022-10-0072</vendorCode>
@@ -42482,7 +42482,7 @@
     <price>575</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>555</quantity_in_stock>
+    <quantity_in_stock>551</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/now-foodssunflower-lecithin-1200-mg-100-sgels-56094755546606_+07af6ebe30.jpg</picture>
     <picture>https://dsn.ua/content/images/17/now-foodssunflower-lecithin-1200-mg-100-sgels-55540337933334_+d774134f77.jpg</picture>
     <picture>https://dsn.ua/content/images/17/now-foodssunflower-lecithin-1200-mg-100-sgels-30907331260720_+b3e63dab5b.jpg</picture>
@@ -42541,7 +42541,7 @@
     <price>1116</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1196</quantity_in_stock>
+    <quantity_in_stock>1195</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/now-foodschlorophyll-liquid-mint-16-oz-49470510766470_+1b36c52b40.jpg</picture>
     <picture>https://dsn.ua/content/images/20/now-foodschlorophyll-liquid-mint-16-oz-78457195720351_+e44d7c35f3.jpg</picture>
     <picture>https://dsn.ua/content/images/20/now-foodschlorophyll-liquid-mint-16-oz-27744050240157_+bde52c5efb.jpg</picture>
@@ -42581,7 +42581,7 @@
     <price>420</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/now-foodskelp-150-mcg-200-tabs-81395033111403_+76f2af861e.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodskelp-150-mcg-200-tabs-93096554143104_+b9397ddabd.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodskelp-150-mcg-200-tabs-12454114508411_+e9f2268dcc.jpg</picture>
@@ -42601,7 +42601,7 @@
     <price>346</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2319</quantity_in_stock>
+    <quantity_in_stock>2318</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/now-foodsspirulina-500-mg-100-tabs-22103312248217_+dd0aa91ec3.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsspirulina-500-mg-100-tabs-55376632581521_+7839f16cae.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsspirulina-500-mg-100-tabs-58073200225238_+03e9f05c8d.jpg</picture>
@@ -42621,7 +42621,7 @@
     <price>698</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2916</quantity_in_stock>
+    <quantity_in_stock>2913</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/now-foodsspirulina-1000-mg-120-tabs-42482085989599_+22f99d072d.jpg</picture>
     <picture>https://dsn.ua/content/images/25/now-foodsspirulina-1000-mg-120-tabs-19594555544206_+b4c4bfb34a.jpg</picture>
     <picture>https://dsn.ua/content/images/25/now-foodsspirulina-1000-mg-120-tabs-15530442498996_+3b1a664d48.jpg</picture>
@@ -42794,7 +42794,7 @@
     <price>591</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>121</quantity_in_stock>
+    <quantity_in_stock>117</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/now-foodsalpha-lipoic-acid-250-mg-60-vcaps-59845051540469_+0ca4832515.jpg</picture>
     <picture>https://dsn.ua/content/images/35/now-foodsalpha-lipoic-acid-250-mg-60-vcaps-65970770798517_+e04786bd8a.jpg</picture>
     <picture>https://dsn.ua/content/images/35/now-foodsalpha-lipoic-acid-250-mg-60-vcaps-14382655200139_+f58c8c86ec.jpg</picture>
@@ -43034,7 +43034,7 @@
     <price>971</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <picture>https://dsn.ua/content/images/48/now-foodsresveratrol-200-mg-60-vcaps-50488516613235_+0d19ac686b.jpg</picture>
     <picture>https://dsn.ua/content/images/48/now-foodsresveratrol-200-mg-60-vcaps-13552190016573_+c72f12585e.png</picture>
     <vendorCode>2022-10-0106</vendorCode>
@@ -43052,7 +43052,7 @@
     <price>496</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>170</quantity_in_stock>
+    <quantity_in_stock>169</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/now-foodsmelatonin-5-mg-120-tabs-63809536935338_+4d44725948.jpg</picture>
     <picture>https://dsn.ua/content/images/49/now-foodsmelatonin-5-mg-120-tabs-79539585451463_+3b4e40e93b.png</picture>
     <vendorCode>2022-10-0107</vendorCode>
@@ -43184,7 +43184,7 @@
     <price>601</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1243</quantity_in_stock>
+    <quantity_in_stock>1240</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/now-foodsashwagandha-450-mg-90-vcap-95157978309066_+8deecfc28a.jpg</picture>
     <picture>https://dsn.ua/content/images/6/now-foodsashwagandha-450-mg-90-vcap-16780267786172_+5c7e457bf9.jpg</picture>
     <picture>https://dsn.ua/content/images/6/now-foodsashwagandha-450-mg-90-vcap-39681923660919_+b78d79400f.jpg</picture>
@@ -44168,7 +44168,7 @@
     <price>294</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>116</quantity_in_stock>
+    <quantity_in_stock>115</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/swansonmelatonin-dual-release-3mg-60tabs-33962264062376_+3cea7bb792.jpg</picture>
     <picture>https://dsn.ua/content/images/50/swansonmelatonin-dual-release-3mg-60tabs-80596339870481_+332d3977b8.png</picture>
     <vendorCode>100-41-5548430-20</vendorCode>
@@ -44255,7 +44255,7 @@
     <price>514</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>535</quantity_in_stock>
+    <quantity_in_stock>533</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/swansonboswellia-400-mg-100caps-19224893029982_+fc1a0fdf26.jpg</picture>
     <picture>https://dsn.ua/content/images/5/swansonboswellia-400-mg-100caps-25911137827864_+ce438fd837.png</picture>
     <vendorCode>100-32-5900626-20</vendorCode>
@@ -44448,7 +44448,7 @@
     <price>767</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>402</quantity_in_stock>
+    <quantity_in_stock>395</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/vplabultra-women-multivitamin-formula-90-caps-73278402432263_+cb358a5069.jpg</picture>
     <picture>https://dsn.ua/content/images/44/vplabultra-women-multivitamin-formula-90-caps-14051201914463_+39f86aed81.png</picture>
     <picture>https://dsn.ua/content/images/44/vplabultra-women-multivitamin-formula-90-caps-50600685132584_+c3609e7f15.png</picture>
@@ -44467,7 +44467,7 @@
     <price>767</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>482</quantity_in_stock>
+    <quantity_in_stock>481</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/vplabultra-mens-sport-multivitamin-90-caps-14738055925247_+2b05d4d09b.jpg</picture>
     <picture>https://dsn.ua/content/images/45/vplabultra-mens-sport-multivitamin-90-caps-33460132035931_+780af65999.png</picture>
     <picture>https://dsn.ua/content/images/45/vplabultra-mens-sport-multivitamin-90-caps-97341487696350_+597fe945f0.png</picture>
@@ -44624,7 +44624,7 @@
     <price>97</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>1623</quantity_in_stock>
+    <quantity_in_stock>1619</quantity_in_stock>
     <picture>https://dsn.ua/content/images/4/vplabpill-case-pill-master-black-20716866593986_+fc52235fae.jpg</picture>
     <vendorCode>2022-10-0285</vendorCode>
     <vendor>VPLab</vendor>
@@ -44728,7 +44728,7 @@
     <price>509</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>84</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/vplabskin-nails-hair-60-caps-84396494004343_+8fa09ba679.jpg</picture>
     <picture>https://dsn.ua/content/images/20/vplabskin-nails-hair-60-caps-97321107499991_+cd8849c520.png</picture>
     <vendorCode>2022-10-0301</vendorCode>
@@ -44830,7 +44830,7 @@
     <price>313</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>429</quantity_in_stock>
+    <quantity_in_stock>428</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/vplabvitamin-d3-600iu-120-softgels-57527384232543_+6e9bf23d7b.jpg</picture>
     <picture>https://dsn.ua/content/images/26/vplabvitamin-d3-600iu-120-softgels-34161478180327_+1fa65ad704.png</picture>
     <vendorCode>2022-10-0307</vendorCode>
@@ -44949,7 +44949,7 @@
     <price>271</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>273</quantity_in_stock>
+    <quantity_in_stock>270</quantity_in_stock>
     <picture>https://dsn.ua/content/images/33/vplabkids-multivitamin-60-gummies-93423384919904_+79a22aeaf7.jpg</picture>
     <picture>https://dsn.ua/content/images/33/vplabkids-multivitamin-60-gummies-34412080952212_+6682ef1457.png</picture>
     <vendorCode>2022-10-0314</vendorCode>
@@ -45514,12 +45514,12 @@
     <param name="Категории">Мультивитамины&gt;</param>
     <param name="Штрихкод">733739038685</param>
    </offer>
-   <offer id="22046" group_id="18833452" available="true">
+   <offer id="22046" group_id="18833452" available="">
     <url>https://dsn.ua/ru/now-foods/eve-womens-multi-180-tabs/</url>
     <price>2289</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/now-foodseve-womens-multi-180-tabs-42112506697569_+ab83091420.jpg</picture>
     <picture>https://dsn.ua/content/images/47/now-foodseve-womens-multi-180-tabs-89920042608286_+63fe9b56cb.png</picture>
     <picture>https://dsn.ua/content/images/47/now-foodseve-womens-multi-180-tabs-28984008573032_+116045d907.png</picture>
@@ -45679,7 +45679,7 @@
     <price>582</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>3830</quantity_in_stock>
+    <quantity_in_stock>3828</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/now-foodsspirulina-500-mg-200-tabs-39248822920881_+587e279d46.jpg</picture>
     <picture>https://dsn.ua/content/images/6/50207797612112_+348390a176.jpg</picture>
     <picture>https://dsn.ua/content/images/6/now-foodsspirulina-500-mg-200-tabs-98167663915018_+02db1c8a84.jpg</picture>
@@ -45716,7 +45716,7 @@
     <price>2081</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>203</quantity_in_stock>
+    <quantity_in_stock>179</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/now-foodsultra-omega-3-d-fish-oil-180-fish-softgels-36685538524118_+9a2c8102cd.jpg</picture>
     <picture>https://dsn.ua/content/images/9/now-foodsultra-omega-3-d-fish-oil-180-fish-softgels-89318533219118_+e7b1723aa6.jpg</picture>
     <picture>https://dsn.ua/content/images/9/now-foodsultra-omega-3-d-fish-oil-180-fish-softgels-22192318014391_+364be08ae6.jpg</picture>
@@ -45788,7 +45788,7 @@
     <price>1223</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/now-foodsgaba-750-mg-200-vcaps-65492118216576_+1ef1d0c402.jpg</picture>
     <picture>https://dsn.ua/content/images/15/now-foodsgaba-750-mg-200-vcaps-29672969404796_+b015dcf0db.jpg</picture>
     <picture>https://dsn.ua/content/images/15/now-foodsgaba-750-mg-200-vcaps-55636675656239_+b132c8e835.jpg</picture>
@@ -46221,7 +46221,7 @@
     <price>550</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>617</quantity_in_stock>
+    <quantity_in_stock>616</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/vitamin-k-2-100mcg-100-vcapsid-38834231206278_+595d7c5da9.jpg</picture>
     <picture>https://dsn.ua/content/images/41/vitamin-k-2-100mcg-100-vcapsid-86357392609754_+3855f29a0c.jpg</picture>
     <picture>https://dsn.ua/content/images/41/vitamin-k-2-100mcg-100-vcapsid-61665562003449_+7494226177.jpg</picture>
@@ -46257,7 +46257,7 @@
     <price>691</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1085</quantity_in_stock>
+    <quantity_in_stock>1075</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/now-foodsvit-d-3-5000-iu-240-sgelsid-78426899722467_+c47cebff08.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsvit-d-3-5000-iu-240-sgelsid-31039589765532_+2d7e1a6390.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsvit-d-3-5000-iu-240-sgelsid-65379484681547_+e91ed198cb.jpg</picture>
@@ -46484,7 +46484,7 @@
     <price>1442</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>101</quantity_in_stock>
+    <quantity_in_stock>97</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/vplabultra-womens-protein-500g-strawberry-83062013402094_+aad9514201.jpg</picture>
     <picture>https://dsn.ua/content/images/18/vplabultra-womens-protein-500g-strawberry-52842059345378_+3f13db6811.jpg</picture>
     <vendorCode>2022-10-0478</vendorCode>
@@ -46705,7 +46705,7 @@
     <price>815</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/vplabvegan-protein-500g-vanilla-51111915466625_+7bd5d4ef6e.jpg</picture>
     <picture>https://dsn.ua/content/images/31/vplabvegan-protein-500g-vanilla-30894216240926_+ee46c1e07d.png</picture>
     <vendorCode>2022-10-0491</vendorCode>
@@ -47981,7 +47981,7 @@
     <price>750</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>648</quantity_in_stock>
+    <quantity_in_stock>647</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/natures-waykids-chewable-multivitamin-120-tabs-66127223009818_+9570c7ffd5.jpg</picture>
     <picture>https://dsn.ua/content/images/50/natures-waykids-chewable-multivitamin-120-tabs-24929275997145_+5d956ccc4c.jpg</picture>
     <picture>https://dsn.ua/content/images/50/natures-waykids-chewable-multivitamin-120-tabs-32475653815583_+794a0adc6c.jpg</picture>
@@ -48017,7 +48017,7 @@
     <price>873</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://dsn.ua/content/images/2/35949878466992_+b363711a9c.jpg</picture>
     <picture>https://dsn.ua/content/images/2/natures-wayhair-skin-and-nails-with-collagen-60-gummies-strawberry-57851885963032_+c4ec2322d9.jpg</picture>
     <vendorCode>2022-10-0603</vendorCode>
@@ -48137,7 +48137,7 @@
     <price>514</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>129</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/natures-wayartichoke-supports-digestion-60-vcaps-37762358295492_+8aa4dc41f3.jpg</picture>
     <picture>https://dsn.ua/content/images/9/natures-wayartichoke-supports-digestion-60-vcaps-45360788446940_+c1f0153cdc.jpg</picture>
     <vendorCode>2022-10-0610</vendorCode>
@@ -48650,7 +48650,7 @@
     <price>464</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/now-foodsliquid-vitamin-d-3-30ml-1fl-oz-63496417718443_+6b1713aabe.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsliquid-vitamin-d-3-30ml-1fl-oz-36274639680241_+962a82851a.jpg</picture>
     <vendorCode>2022-10-0660</vendorCode>
@@ -48992,7 +48992,7 @@
     <price>783</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/now-foodsmct-oil-16-fl-oz22548-68791030179138_+55e741f299.jpg</picture>
     <picture>https://dsn.ua/content/images/49/now-foodsmct-oil-16-fl-oz22548-49395113002953_+29b36029b6.jpg</picture>
     <vendorCode>2022-10-0685</vendorCode>
@@ -49301,7 +49301,7 @@
     <price>1087</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/48227602941743_+56b6ac644e.jpg</picture>
     <picture>https://dsn.ua/content/images/18/no-foodseleuthero-500mg-250-vcaps22567-91814998288392_+595d816dfc.jpg</picture>
     <picture>https://dsn.ua/content/images/18/no-foodseleuthero-500mg-250-vcaps22567-15605402723526_+5fe74c26d2.jpg</picture>
@@ -49451,7 +49451,7 @@
     <price>832</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/now-foodspau-d-arco-500mg-250-vcaps22575-28220195996829_+d5bb617e4a.jpg</picture>
     <picture>https://dsn.ua/content/images/26/now-foodspau-d-arco-500mg-250-vcaps22575-56743363838851_+74285e53b1.jpg</picture>
     <picture>https://dsn.ua/content/images/26/now-foodspau-d-arco-500mg-250-vcaps22575-41671221723977_+98f8ddc023.jpg</picture>
@@ -52295,7 +52295,7 @@
     <price>310</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>77</quantity_in_stock>
+    <quantity_in_stock>76</quantity_in_stock>
     <picture>https://dsn.ua/content/images/3/69623591892687_+cda6e9e2ab.jpg</picture>
     <picture>https://dsn.ua/content/images/3/amixmagnesium-b6-120caps-79064983383914_+6cb10131e2.png</picture>
     <vendorCode>2022-10-0932</vendorCode>
@@ -52671,7 +52671,7 @@
     <price>416</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/now-foodspau-d-arco-500mg-100-vcapsid-44868621299483_+8eca679945.jpg</picture>
     <picture>https://dsn.ua/content/images/41/now-foodspau-d-arco-500mg-100-vcapsid-87201393104342_+465dd374d8.jpg</picture>
     <picture>https://dsn.ua/content/images/41/now-foodspau-d-arco-500mg-100-vcapsid-56078748876528_+7ac24dc1ac.jpg</picture>
@@ -52945,7 +52945,7 @@
     <price>197</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/26140236048533_+798f857151.jpg</picture>
     <vendorCode>2022-10-0988</vendorCode>
     <vendor>Now Foods</vendor>
@@ -53149,7 +53149,7 @@
     <price>435</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>3389</quantity_in_stock>
+    <quantity_in_stock>3387</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/magnesium-citrate-tablet-btl-plastic-400mg-60ct-86497181172455_+6620effe30.jpg</picture>
     <picture>https://dsn.ua/content/images/25/magnesium-citrate-tablet-btl-plastic-400mg-60ct-94928286170973_+15cd41b766.png</picture>
     <vendorCode>2022-10-1008</vendorCode>
@@ -53166,7 +53166,7 @@
     <price>466</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/97222341340675_+17e9b8c2bb.jpg</picture>
     <picture>https://dsn.ua/content/images/26/methyl-folate-non-gmo-tablet-btl-plastic-400mcg-90ct-52645016054220_+728da610a3.png</picture>
     <vendorCode>2022-10-1009</vendorCode>
@@ -53183,7 +53183,7 @@
     <price>901</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>1567</quantity_in_stock>
+    <quantity_in_stock>1565</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/magnesium-taurate-plus-tablet-btl-plastic-90ct-80873026303612_+85e8a1cce4.jpg</picture>
     <picture>https://dsn.ua/content/images/27/magnesium-taurate-plus-tablet-btl-plastic-90ct-47080147544494_+a955f4f26c.jpg</picture>
     <vendorCode>2022-10-1010</vendorCode>
@@ -53234,7 +53234,7 @@
     <price>432</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>1922</quantity_in_stock>
+    <quantity_in_stock>1920</quantity_in_stock>
     <picture>https://dsn.ua/content/images/30/stress-b-magnesium-glycinate-veg-cap-btl-plastic-60ct-83166453680185_+244cdd869e.jpg</picture>
     <picture>https://dsn.ua/content/images/30/stress-b-magnesium-glycinate-veg-cap-btl-plastic-60ct-63709811391752_+aba24fbc57.png</picture>
     <vendorCode>2022-10-1013</vendorCode>
@@ -53251,7 +53251,7 @@
     <price>609</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>528</quantity_in_stock>
+    <quantity_in_stock>527</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/methyl-folate-tablet-btl-plastic-800mcg-90ct-12987676513330_+7bc63f152a.jpg</picture>
     <picture>https://dsn.ua/content/images/31/methyl-folate-tablet-btl-plastic-800mcg-90ct-34519588101537_+b28ba81ec6.png</picture>
     <vendorCode>2022-10-1014</vendorCode>
@@ -53304,7 +53304,7 @@
     <price>352</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>628</quantity_in_stock>
+    <quantity_in_stock>624</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/81392562331536_+d322daed96.jpg</picture>
     <picture>https://dsn.ua/content/images/34/childrens-vitamins-minerals-chewable-black-cherry-btl-plastic-60ct-61689536402391_+8e1d8fbf69.png</picture>
     <vendorCode>2022-10-1017</vendorCode>
@@ -53495,7 +53495,7 @@
     <price>398</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>422</quantity_in_stock>
+    <quantity_in_stock>421</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/14291077314740_+d6fc397ffa.jpg</picture>
     <picture>https://dsn.ua/content/images/45/zinc-amino-acid-chelate-veg-cap-btl-plastic-50mg-100ct-13927441545755_+45b51dfe14.png</picture>
     <vendorCode>2022-10-1028</vendorCode>
@@ -53525,12 +53525,12 @@
     <param name="Категории">Аминокислоты и их производные|Поддержка пищеварения</param>
     <param name="Штрихкод">076280048148</param>
    </offer>
-   <offer id="23546" group_id="20332452" available="true">
+   <offer id="23546" group_id="20332452" available="">
     <url>https://dsn.ua/ru/selenium-yeast-free-veg-cap-btl-plastic-100mcg-90ct/</url>
     <price>375</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/33483830727362_+4781d669de.jpg</picture>
     <picture>https://dsn.ua/content/images/47/selenium-yeast-free-veg-cap-btl-plastic-100mcg-90ct-13243001964312_+4888c8c269.png</picture>
     <vendorCode>2022-10-1030</vendorCode>
@@ -53599,7 +53599,7 @@
     <price>923</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>1378</quantity_in_stock>
+    <quantity_in_stock>1377</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/23059032719874_+c160bd5722.jpg</picture>
     <picture>https://dsn.ua/content/images/1/magnesium-citrate-veg-cap-btl-plastic-400mg-180ct-46724658561237_+7c665d281f.png</picture>
     <vendorCode>2022-10-1034</vendorCode>
@@ -53616,7 +53616,7 @@
     <price>805</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>2587</quantity_in_stock>
+    <quantity_in_stock>2583</quantity_in_stock>
     <picture>https://dsn.ua/content/images/2/79412189929794_+816eeb52c6.jpg</picture>
     <picture>https://dsn.ua/content/images/2/vitamin-d3-k2-veg-cap-btl-plastic-5000iu-60ct-64172043472309_+cc16409a68.png</picture>
     <vendorCode>2022-10-1035</vendorCode>
@@ -53633,7 +53633,7 @@
     <price>564</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>2863</quantity_in_stock>
+    <quantity_in_stock>2859</quantity_in_stock>
     <picture>https://dsn.ua/content/images/3/70348040585769_+325617775c.jpg</picture>
     <picture>https://dsn.ua/content/images/3/magnesium-citrate-veg-cap-btl-plastic-400mg-90ct-11829749380113_+1288c8ac7b.png</picture>
     <vendorCode>2022-10-1036</vendorCode>
@@ -53668,7 +53668,7 @@
     <price>1484</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>1146</quantity_in_stock>
+    <quantity_in_stock>1143</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/31175671412299_+7f3fe75fb4.jpg</picture>
     <picture>https://dsn.ua/content/images/5/vitamin-d-3-k-2-veg-cap-btl-plastic-120ct-72492356578664_+e24bd9202a.png</picture>
     <vendorCode>2022-10-1038</vendorCode>
@@ -53685,7 +53685,7 @@
     <price>655</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>82</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/calcium-d3-gummy-60-ct-hfs-86495265796755_+b413401983.jpg</picture>
     <picture>https://dsn.ua/content/images/7/calcium-d3-gummy-60-ct-hfs-93559298530367_+343cda7310.jpg</picture>
     <vendorCode>2022-10-1039</vendorCode>
@@ -53966,7 +53966,7 @@
     <price>1110</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>226</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/once-daily-mens-ultra-60-tabs-19504210487149_+69beb8ba8e.jpg</picture>
     <picture>https://dsn.ua/content/images/23/once-daily-mens-ultra-60-tabs-37160649576203_+3ab2f7f2e0.jpg</picture>
     <picture>https://dsn.ua/content/images/23/once-daily-mens-ultra-60-tabs-84740417852993_+c91f5212c2.jpg</picture>
@@ -54072,7 +54072,7 @@
     <price>1133</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>241</quantity_in_stock>
+    <quantity_in_stock>240</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/once-daily-women-50-ultra-60tab-14272168793200_+56c3cd7846.jpg</picture>
     <picture>https://dsn.ua/content/images/29/once-daily-women-50-ultra-60tab-63327260029046_+cc51cfb5ee.jpg</picture>
     <picture>https://dsn.ua/content/images/29/once-daily-women-50-ultra-60tab-67357079946887_+c8db85971a.jpg</picture>
@@ -54330,7 +54330,7 @@
     <price>600</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>382</quantity_in_stock>
+    <quantity_in_stock>380</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-41215684390512_+a46c2f80ea.jpg</picture>
     <picture>https://dsn.ua/content/images/45/choline-500-mg-100-tabs-77843432234891_+730c58b4ae.jpg</picture>
     <vendorCode>2022-10-1077</vendorCode>
@@ -55345,7 +55345,7 @@
     <price>1382</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>106</quantity_in_stock>
+    <quantity_in_stock>103</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/now-foodsmega-d-3-mk-7-120-vcapsid-84459933682326_+d994127d28.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsmega-d-3-mk-7-120-vcapsid-84410715088036_+0875224671.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsmega-d-3-mk-7-120-vcapsid-18193567116047_+ab18ad1803.jpg</picture>
@@ -55547,7 +55547,7 @@
     <price>327</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/now-foodschromium-picolinate-100caps-99374034219245_+0ca18dc1fa.jpg</picture>
     <picture>https://dsn.ua/content/images/44/now-foodschromium-picolinate-100caps-27934924379845_+c1210f1e8b.jpg</picture>
     <picture>https://dsn.ua/content/images/44/now-foodschromium-picolinate-100caps-89481679570647_+85ab5147fa.jpg</picture>
@@ -55676,7 +55676,7 @@
     <price>821</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/now-foodsl-theanine-200mg-60-vcaps-94714012857036_+ee262cfeff.jpg</picture>
     <picture>https://dsn.ua/content/images/35/now-foodsl-theanine-200mg-60-vcaps-71406109960406_+22a25903e1.jpg</picture>
     <picture>https://dsn.ua/content/images/35/now-foodsl-theanine-200mg-60-vcaps-43850518008601_+50b89353d3.jpg</picture>
@@ -55808,7 +55808,7 @@
     <price>914</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/now-foodsdry-e-400-100-vcaps-44684678695771_+1f9e5eb7fd.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsdry-e-400-100-vcaps-38919049355537_+bc79e68d38.jpg</picture>
     <picture>https://dsn.ua/content/images/43/now-foodsdry-e-400-100-vcaps-88816146875598_+e9acb4151e.jpg</picture>
@@ -55862,7 +55862,7 @@
     <price>923</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <picture>https://dsn.ua/content/images/46/now-foodsalpha-lipoic-acid-600mg-60-vcapsid-45663367756285_+44540da986.jpg</picture>
     <picture>https://dsn.ua/content/images/46/now-foodsalpha-lipoic-acid-600mg-60-vcapsid-99297940509763_+525d97e746.jpg</picture>
     <picture>https://dsn.ua/content/images/46/now-foodsalpha-lipoic-acid-600mg-60-vcapsid-31020740775493_+74471f9da2.jpg</picture>
@@ -55936,7 +55936,7 @@
     <price>170</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>980</quantity_in_stock>
+    <quantity_in_stock>979</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/76576864869037_+e573be051b.jpg</picture>
     <vendorCode>2022-10-2328</vendorCode>
     <vendor>Brave</vendor>
@@ -56016,7 +56016,7 @@
     <price>170</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/85439653441919_+89b1220c6e.jpg</picture>
     <vendorCode>2022-10-2333</vendorCode>
     <vendor>Brave</vendor>
@@ -56032,7 +56032,7 @@
     <price>170</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/47506597301906_+7efb63dffe.jpg</picture>
     <vendorCode>2022-10-2334</vendorCode>
     <vendor>Brave</vendor>
@@ -56064,7 +56064,7 @@
     <price>170</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/81372351844245_+c45166de73.jpg</picture>
     <vendorCode>2022-10-2336</vendorCode>
     <vendor>Brave</vendor>
@@ -56192,7 +56192,7 @@
     <price>260</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>51</quantity_in_stock>
+    <quantity_in_stock>50</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/brave-ushaker-premium-500ml-black-90402558643946_+2b23fc5ec8.jpg</picture>
     <vendorCode>2022-10-2344</vendorCode>
     <vendor>Brave</vendor>
@@ -56504,7 +56504,7 @@
     <price>1040</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/now-foodscod-liver-oil-1000mg-180-sgelsid-69015840003489_+569268de9b.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodscod-liver-oil-1000mg-180-sgelsid-59544857975532_+e2fc1c5af6.jpg</picture>
     <picture>https://dsn.ua/content/images/23/now-foodscod-liver-oil-1000mg-180-sgelsid-49678532465977_+657ef4b602.jpg</picture>
@@ -56522,7 +56522,7 @@
     <price>485</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/now-foodsevevning-primrose-500mg-100-sgels-40108390441460_+51ea53476c.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsevevning-primrose-500mg-100-sgels-78223831202135_+0cba11c9f9.jpg</picture>
     <picture>https://dsn.ua/content/images/24/now-foodsevevning-primrose-500mg-100-sgels-50130986306800_+c450f138d1.jpg</picture>
@@ -56650,7 +56650,7 @@
     <price>923</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/now-foodspolicosanol-20mg-plus-90-vcapsid-46635686659410_+6cc7eacb7e.jpg</picture>
     <picture>https://dsn.ua/content/images/31/now-foodspolicosanol-20mg-plus-90-vcapsid-24303081828447_+adbf6ca4fe.jpg</picture>
     <picture>https://dsn.ua/content/images/31/now-foodspolicosanol-20mg-plus-90-vcapsid-64568101045083_+93c6ba6564.jpg</picture>
@@ -57191,7 +57191,7 @@
     <price>1251</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>572</quantity_in_stock>
+    <quantity_in_stock>563</quantity_in_stock>
     <picture>https://dsn.ua/content/images/32/21620391773728_+72d9063517.jpg</picture>
     <picture>https://dsn.ua/content/images/32/skin-nails-hair-advanced-msm-120-tabs-14597932883500_+0bd5b075b7.png</picture>
     <vendorCode>2022-10-2419</vendorCode>
@@ -57413,7 +57413,7 @@
     <price>1025</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>264</quantity_in_stock>
+    <quantity_in_stock>262</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/kalmagnesium-bisglycinate-350-160-veg-caps-21904526785781_+a9abe91d6a.jpg</picture>
     <picture>https://dsn.ua/content/images/5/kalmagnesium-bisglycinate-350-160-veg-caps-46594988132583_+12508d6926.jpg</picture>
     <vendorCode>2022-10-2441</vendorCode>
@@ -57447,7 +57447,7 @@
     <price>940</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>46</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/solaraycal-mag-citrate-180-veg-caps-63295362124275_+e2e15b14f6.jpg</picture>
     <picture>https://dsn.ua/content/images/8/solaraycal-mag-citrate-180-veg-caps-95321069535578_+458e8b3d32.jpg</picture>
     <vendorCode>2022-10-2444</vendorCode>
@@ -57464,7 +57464,7 @@
     <price>461</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>322</quantity_in_stock>
+    <quantity_in_stock>320</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/solaraycalcium-w-d3-citrate-1000mg-90-caps-86136714148626_+02689c824b.jpg</picture>
     <picture>https://dsn.ua/content/images/9/solaraycalcium-w-d3-citrate-1000mg-90-caps-35875720600607_+9dc6094ff8.png</picture>
     <vendorCode>2022-10-2445</vendorCode>
@@ -57499,7 +57499,7 @@
     <price>1051</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>140</quantity_in_stock>
+    <quantity_in_stock>139</quantity_in_stock>
     <picture>https://dsn.ua/content/images/11/solaraycalcium-citrate-1000mg-240-vcaps-11582786443876_+f53a6386bd.jpg</picture>
     <picture>https://dsn.ua/content/images/11/solaraycalcium-citrate-1000mg-240-vcaps-21661770914617_+1739709f94.png</picture>
     <vendorCode>2022-10-2447</vendorCode>
@@ -57533,7 +57533,7 @@
     <price>769</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>152</quantity_in_stock>
+    <quantity_in_stock>150</quantity_in_stock>
     <picture>https://dsn.ua/content/images/14/solaraymonolaurin-500mg-60-vcaps-99716251961157_+374cf6583b.jpg</picture>
     <picture>https://dsn.ua/content/images/14/solaraymonolaurin-500mg-60-vcaps-24022501898126_+132120da03.png</picture>
     <vendorCode>2022-10-2450</vendorCode>
@@ -57550,7 +57550,7 @@
     <price>1530</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>1309</quantity_in_stock>
+    <quantity_in_stock>1303</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/solaraymagnesium-glycinate-350mg-240-vcaps-44847791202191_+60827f49fe.jpg</picture>
     <picture>https://dsn.ua/content/images/15/solaraymagnesium-glycinate-350mg-240-vcaps-73403086461734_+c385ec9c67.png</picture>
     <vendorCode>2022-10-2451</vendorCode>
@@ -59364,7 +59364,7 @@
     <price>989</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>78</quantity_in_stock>
+    <quantity_in_stock>77</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/now-foodschlorella-1000mg-120-tabs-59142264238141_+7772069b25.jpg</picture>
     <picture>https://dsn.ua/content/images/34/now-foodschlorella-1000mg-120-tabs-63219903910702_+81bc39fccc.jpg</picture>
     <picture>https://dsn.ua/content/images/34/now-foodschlorella-1000mg-120-tabs-24856762721321_+e8a98574bb.jpg</picture>
@@ -61758,7 +61758,7 @@
     <price>445</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>1088</quantity_in_stock>
+    <quantity_in_stock>1087</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/selenium-yeast-free-100-mcg-100-tabs-89357458536317_+5d91b8a2a2.jpg</picture>
     <picture>https://dsn.ua/content/images/17/selenium-yeast-free-100-mcg-100-tabs-75515878856417_+e71c6959d3.png</picture>
     <vendorCode>100-11-5311185-20</vendorCode>
@@ -62536,7 +62536,7 @@
     <price>559</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>3771</quantity_in_stock>
+    <quantity_in_stock>3769</quantity_in_stock>
     <picture>https://dsn.ua/content/images/14/natures-plushema-plex-30-tabs-68831141991837_+43bc68f9a5.jpg</picture>
     <picture>https://dsn.ua/content/images/14/natures-plushema-plex-30-tabs-63365052132369_+2dd228f290.jpg</picture>
     <vendorCode>2022-10-2841</vendorCode>
@@ -62621,7 +62621,7 @@
     <price>712</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>557</quantity_in_stock>
+    <quantity_in_stock>555</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/gold-assorted-chewable-60-tabs-38885014343885_+ff66615b82.jpg</picture>
     <picture>https://dsn.ua/content/images/19/gold-assorted-chewable-60-tabs-86969797472413_+918dccc2d0.jpg</picture>
     <vendorCode>2022-10-2846</vendorCode>
@@ -62638,7 +62638,7 @@
     <price>1276</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>404</quantity_in_stock>
+    <quantity_in_stock>402</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/natures-plusgold-assorted-chewable-120-tabs-19004892068336_+a8f5873e82.jpg</picture>
     <picture>https://dsn.ua/content/images/20/natures-plusgold-assorted-chewable-120-tabs-30050350314337_+9902455ec8.jpg</picture>
     <vendorCode>2022-10-2847</vendorCode>
@@ -62723,7 +62723,7 @@
     <price>937</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>164</quantity_in_stock>
+    <quantity_in_stock>162</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/inner-ear-support-chewable-90-tabs-12821021411104_+971d03fa2b.jpg</picture>
     <picture>https://dsn.ua/content/images/25/inner-ear-support-chewable-90-tabs-46721674423111_+7a34f42422.jpg</picture>
     <vendorCode>2022-10-2852</vendorCode>
@@ -62757,7 +62757,7 @@
     <price>825</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>247</quantity_in_stock>
+    <quantity_in_stock>246</quantity_in_stock>
     <picture>https://dsn.ua/content/images/27/kid-zinc-90-lozenges-64509144561741_+20783183c7.jpg</picture>
     <picture>https://dsn.ua/content/images/27/kid-zinc-90-lozenges-99863255002302_+7b1e9ec80f.jpg</picture>
     <vendorCode>2022-10-2856</vendorCode>
@@ -62893,7 +62893,7 @@
     <price>547</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>9741</quantity_in_stock>
+    <quantity_in_stock>9730</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/31148346642576_+404aeb3f41.jpg</picture>
     <picture>https://dsn.ua/content/images/39/natures-plushema-plex-30-tabs-6-pack-26418747709586_+627204d56d.jpg</picture>
     <vendorCode>2022-10-2868</vendorCode>
@@ -62910,7 +62910,7 @@
     <price>975</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>568</quantity_in_stock>
+    <quantity_in_stock>565</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/natures-pluspower-teen-hers-chewable-60-tabs-50658452187133_+eac1b3ff6e.jpg</picture>
     <picture>https://dsn.ua/content/images/40/natures-pluspower-teen-hers-chewable-60-tabs-21112260481098_+704715072d.jpg</picture>
     <vendorCode>2022-10-2865</vendorCode>
@@ -62927,7 +62927,7 @@
     <price>975</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>665</quantity_in_stock>
+    <quantity_in_stock>664</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/natures-pluspower-teen-his-chewable-60-tabs-24856274680739_+87bea05bfc.jpg</picture>
     <picture>https://dsn.ua/content/images/41/natures-pluspower-teen-his-chewable-60-tabs-37865926483402_+58b50956b1.jpg</picture>
     <vendorCode>2022-10-2864</vendorCode>
@@ -63980,7 +63980,7 @@
     <price>2895</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/b-complex-100-250-vcaps-83565350112819_+21902b5a05.jpg</picture>
     <picture>https://dsn.ua/content/images/40/b-complex-100-250-vcaps-46905815860341_+4b0883afed.png</picture>
     <vendorCode>2022-10-2984</vendorCode>
@@ -64224,7 +64224,7 @@
     <price>1205</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>2286</quantity_in_stock>
+    <quantity_in_stock>2284</quantity_in_stock>
     <picture>https://dsn.ua/content/images/4/triple-strength-omega-3-950-mg-50-softgels-82605159346285_+b20356f300.jpg</picture>
     <picture>https://dsn.ua/content/images/4/triple-strength-omega-3-950-mg-50-softgels-78321877312849_+b156eb38ef.png</picture>
     <vendorCode>2022-10-2998</vendorCode>
@@ -64241,7 +64241,7 @@
     <price>2024</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>882</quantity_in_stock>
+    <quantity_in_stock>881</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/triple-strength-omega-3-950-mg-100-softgels-55514252729195_+0bfb161146.jpg</picture>
     <picture>https://dsn.ua/content/images/5/triple-strength-omega-3-950-mg-100-softgels-15171731536632_+0f73d80aaa.png</picture>
     <vendorCode>2022-10-2999</vendorCode>
@@ -64938,7 +64938,7 @@
     <price>487</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>2939</quantity_in_stock>
+    <quantity_in_stock>2938</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/magnesium-bis-glycinate-60-tabs-98880581317301_+c942b589cc.jpg</picture>
     <picture>https://dsn.ua/content/images/45/magnesium-bis-glycinate-60-tabs-50782452789529_+427f768577.jpg</picture>
     <vendorCode>2022-10-1302</vendorCode>
@@ -64973,7 +64973,7 @@
     <price>835</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>2192</quantity_in_stock>
+    <quantity_in_stock>2189</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/ultra-mag-magnesium-complex-120-tabs-84864895998314_+9ad9d8b9f2.jpg</picture>
     <picture>https://dsn.ua/content/images/47/ultra-mag-magnesium-complex-120-tabs-44243072082070_+59bfb4f30c.jpg</picture>
     <picture>https://dsn.ua/content/images/47/ultra-mag-magnesium-complex-120-tabs-15100249775994_+40d6e88c4f.jpg</picture>
@@ -65111,7 +65111,7 @@
     <price>416</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/red-clover-375-mg-100-vcapsid-48963324466032_+ec80ef6284.jpg</picture>
     <picture>https://dsn.ua/content/images/24/red-clover-375-mg-100-vcapsid-19499514798366_+3b2c7aa91d.jpg</picture>
     <picture>https://dsn.ua/content/images/24/red-clover-375-mg-100-vcapsid-77744872743152_+cb2d0eb752.jpg</picture>
@@ -65179,12 +65179,12 @@
     <param name="Категории">Мозг и когнитивные функции|Лецитин</param>
     <param name="Штрихкод">733739023131</param>
    </offer>
-   <offer id="25577" group_id="22355452" available="true">
+   <offer id="25577" group_id="22355452" available="">
     <url>https://dsn.ua/ru/prostate-support-90-sgels/</url>
     <price>1040</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/prostate-support-90-sgels-33800791495972_+1a8c5b6716.jpg</picture>
     <picture>https://dsn.ua/content/images/28/prostate-support-90-sgels-60093225057817_+2b7129a5b6.jpg</picture>
     <picture>https://dsn.ua/content/images/28/prostate-support-90-sgels-96751362749256_+ad5e10d255.jpg</picture>
@@ -65576,7 +65576,7 @@
     <price>2081</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>371</quantity_in_stock>
+    <quantity_in_stock>367</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/ultra-omega-3-fo-500-250-fish-gelatin-180-softgels-74659616920036_+317e0f2de2.jpg</picture>
     <picture>https://dsn.ua/content/images/50/ultra-omega-3-fo-500-250-fish-gelatin-180-softgels-80574236973841_+5a5a1a352a.jpg</picture>
     <picture>https://dsn.ua/content/images/50/ultra-omega-3-fo-500-250-fish-gelatin-180-softgels-35078032683686_+657c7e0675.jpg</picture>
@@ -66000,7 +66000,7 @@
     <price>724</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/psyllium-husk-powder-340g-30342363449472_+9af4e0ce2a.jpg</picture>
     <picture>https://dsn.ua/content/images/23/psyllium-husk-powder-340g-21249232168822_+01d4768e23.png</picture>
     <vendorCode>2022-10-1368</vendorCode>
@@ -66385,12 +66385,12 @@
     <param name="Категории">Женское здоровье|Травы&gt;</param>
     <param name="Штрихкод">733739046079</param>
    </offer>
-   <offer id="25644" group_id="22422452" available="true">
+   <offer id="25644" group_id="22422452" available="">
     <url>https://dsn.ua/ru/psyllium-husk-700mgpectin-180-vcaps/</url>
     <price>791</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/psyllium-husk-700mgpectin-180-vcaps-44253698214937_+3d6cfeb93c.jpg</picture>
     <picture>https://dsn.ua/content/images/45/psyllium-husk-700mgpectin-180-vcaps-62073193682779_+2afe2ba5a0.png</picture>
     <vendorCode>2022-10-1390</vendorCode>
@@ -67104,7 +67104,7 @@
     <price>1040</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/calcium-magnesium-250-tabs-85903874481355_+672bca74d9.jpg</picture>
     <picture>https://dsn.ua/content/images/35/calcium-magnesium-250-tabs-58965311815066_+7c929893dc.jpg</picture>
     <picture>https://dsn.ua/content/images/35/calcium-magnesium-250-tabs-27697677377869_+4e1a6cd385.jpg</picture>
@@ -67323,7 +67323,7 @@
     <price>1387</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>258</quantity_in_stock>
+    <quantity_in_stock>256</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/berberine-glucose-support-90-sgelsid-94005645672117_+8f24f155bd.jpg</picture>
     <picture>https://dsn.ua/content/images/47/berberine-glucose-support-90-sgelsid-89688469103081_+75279b64da.jpg</picture>
     <picture>https://dsn.ua/content/images/47/berberine-glucose-support-90-sgelsid-73333821114956_+863193f4ba.jpg</picture>
@@ -67853,7 +67853,7 @@
     <price>482</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/ester-c-plus-500-mg-vitamin-c-vegetable-capsules-ester-c-ascorbate-complex-50-vc-57073501687292_+7074935570.jpg</picture>
     <picture>https://dsn.ua/content/images/15/ester-c-plus-500-mg-vitamin-c-vegetable-capsules-ester-c-ascorbate-complex-50-vc-36838544369255_+2f2e930ac6.png</picture>
     <vendorCode>100-97-0659089-20</vendorCode>
@@ -67956,7 +67956,7 @@
     <price>612</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>476</quantity_in_stock>
+    <quantity_in_stock>469</quantity_in_stock>
     <picture>https://dsn.ua/content/images/21/gentle-iron-90-vegetable-capsules-30136051201262_+3bd607c9c4.jpg</picture>
     <picture>https://dsn.ua/content/images/21/gentle-iron-90-vegetable-capsules-32208817955145_+e939f41dcc.png</picture>
     <vendorCode>2022-10-1529</vendorCode>
@@ -68044,7 +68044,7 @@
     <price>1112</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>202</quantity_in_stock>
+    <quantity_in_stock>197</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/lipotropic-factors-tablets-tab-100-36855576193068_+e6647401b9.jpg</picture>
     <picture>https://dsn.ua/content/images/26/lipotropic-factors-tablets-tab-100-23994072783345_+1acbdce284.png</picture>
     <vendorCode>2022-10-1533</vendorCode>
@@ -68078,7 +68078,7 @@
     <price>908</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>769</quantity_in_stock>
+    <quantity_in_stock>765</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/magnesium-citrate-120-tabe-52669686763775_+eeb417f3b6.jpg</picture>
     <picture>https://dsn.ua/content/images/28/magnesium-citrate-120-tabe-55206022489028_+1130cbe3c2.png</picture>
     <vendorCode>2022-10-1534</vendorCode>
@@ -68095,7 +68095,7 @@
     <price>732</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>1171</quantity_in_stock>
+    <quantity_in_stock>1168</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/skin-nails-hair-60-tablets-13190098412827_+47ece32557.jpg</picture>
     <picture>https://dsn.ua/content/images/29/skin-nails-hair-60-tablets-63447967979029_+11566c86d0.png</picture>
     <vendorCode>100-68-6954110-20</vendorCode>
@@ -68146,7 +68146,7 @@
     <price>1017</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>312</quantity_in_stock>
+    <quantity_in_stock>310</quantity_in_stock>
     <picture>https://dsn.ua/content/images/32/1300-mg-omega-3-6-9-60-softgels-35065415575640_+6205f0654c.jpg</picture>
     <picture>https://dsn.ua/content/images/32/1300-mg-omega-3-6-9-60-softgels-66975633138335_+b210e77281.png</picture>
     <vendorCode>2022-10-1537</vendorCode>
@@ -68663,7 +68663,7 @@
     <price>556</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>157</quantity_in_stock>
+    <quantity_in_stock>156</quantity_in_stock>
     <picture>https://dsn.ua/content/images/12/chelated-zinc-tablets-100-tab-75039531890800_+40d80af75b.jpg</picture>
     <picture>https://dsn.ua/content/images/12/chelated-zinc-tablets-100-tab-92817380487227_+1017de839a.png</picture>
     <vendorCode>2022-10-1520</vendorCode>
@@ -68780,12 +68780,12 @@
     <param name="Категории">Нервная система|Адаптогены|Травы&gt;|Ашваганда</param>
     <param name="Штрихкод">733739023759</param>
    </offer>
-   <offer id="25869" group_id="22647452" available="true">
+   <offer id="25869" group_id="22647452" available="">
     <url>https://dsn.ua/ru/kidney-cleanse-90-vcaps/25869/</url>
     <price>659</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/kidney-cleanse-90-vcapsid-73945057610638_+ff9fff6aca.jpg</picture>
     <picture>https://dsn.ua/content/images/20/kidney-cleanse-90-vcapsid-30069393465127_+49d29cd4b2.jpg</picture>
     <picture>https://dsn.ua/content/images/20/kidney-cleanse-90-vcapsid-34178848448091_+2f9e6e233b.jpg</picture>
@@ -69299,7 +69299,7 @@
     <price>762</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/panax-ginseng-500mg-100-vcaps-11397179289157_+0593d03187.jpg</picture>
     <picture>https://dsn.ua/content/images/10/panax-ginseng-500mg-100-vcaps-26327714078444_+97feb9b7d9.jpg</picture>
     <picture>https://dsn.ua/content/images/10/panax-ginseng-500mg-100-vcaps-16568174029222_+0a00d54cc1.jpg</picture>
@@ -69373,7 +69373,7 @@
     <price>617</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <picture>https://dsn.ua/content/images/14/mens-complete-multivitamin-50-tabs-86527366543557_+9506a4248d.jpg</picture>
     <picture>https://dsn.ua/content/images/14/mens-complete-multivitamin-50-tabs-66002519157246_+098a2d1eb2.jpg</picture>
     <picture>https://dsn.ua/content/images/14/mens-complete-multivitamin-50-tabs-70470281178957_+3d99e8bf4a.jpg</picture>
@@ -69737,7 +69737,7 @@
     <price>816</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>216</quantity_in_stock>
+    <quantity_in_stock>215</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/97097631459904_+4d2de14cec.jpg</picture>
     <picture>https://dsn.ua/content/images/8/fitwin-12kh60g-pistacho-cream-93877099881123_+41cf1e5682.jpg</picture>
     <picture>https://dsn.ua/content/images/8/fitwin-12kh60g-pistacho-cream-87826248266200_+eab5291f7a.jpg</picture>
@@ -70085,7 +70085,7 @@
     <price>750</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>257</quantity_in_stock>
+    <quantity_in_stock>256</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/b-12-methylcobalamin-and-adenosylcobalamin-2000mcg-60-tabs-55549945904125_+64b004be17.jpg</picture>
     <picture>https://dsn.ua/content/images/1/b-12-methylcobalamin-and-adenosylcobalamin-2000mcg-60-tabs-83787885776032_+9ab5620f17.jpg</picture>
     <vendorCode>2022-10-1768</vendorCode>
@@ -70328,7 +70328,7 @@
     <price>688</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>921</quantity_in_stock>
+    <quantity_in_stock>920</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/kids-vitamins-minerals-120-chewables-black-cherry-35935639847307_+a99fbfbd54.jpg</picture>
     <picture>https://dsn.ua/content/images/20/kids-vitamins-minerals-120-chewables-black-cherry-61975392114828_+81d72cb6e9.png</picture>
     <vendorCode>2022-10-1788</vendorCode>
@@ -70345,7 +70345,7 @@
     <price>257</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>119</quantity_in_stock>
+    <quantity_in_stock>118</quantity_in_stock>
     <picture>https://dsn.ua/content/images/21/chromium-picolinate-200mcg-50-tabs-42129047556779_+db71eb90d4.jpg</picture>
     <picture>https://dsn.ua/content/images/21/chromium-picolinate-200mcg-50-tabs-72963576263695_+4b74098e36.jpg</picture>
     <vendorCode>2022-10-1789</vendorCode>
@@ -70466,7 +70466,7 @@
     <price>589</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>566</quantity_in_stock>
+    <quantity_in_stock>565</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/zinc-copper-100-vcaps-27948876788384_+27dbbc80d6.jpg</picture>
     <picture>https://dsn.ua/content/images/28/zinc-copper-100-vcaps-55650611622795_+0ad5aa26a6.jpg</picture>
     <vendorCode>2022-10-1796</vendorCode>
@@ -70483,7 +70483,7 @@
     <price>543</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>234</quantity_in_stock>
+    <quantity_in_stock>233</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/tongkat-ali-400mg-60-vcaps-87182441658706_+2c7f8cf693.jpg</picture>
     <picture>https://dsn.ua/content/images/29/tongkat-ali-400mg-60-vcaps-75396633533622_+fa78de6ece.jpg</picture>
     <vendorCode>2022-10-1797</vendorCode>
@@ -70501,7 +70501,7 @@
     <price>867</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>1756</quantity_in_stock>
+    <quantity_in_stock>1750</quantity_in_stock>
     <picture>https://dsn.ua/content/images/30/magnesium-glycinate-350mg-120-vcaps-29167576088625_+ec66b4edce.jpg</picture>
     <picture>https://dsn.ua/content/images/30/85752427020311_+16e90124ff.jpg</picture>
     <vendorCode>2022-10-1798</vendorCode>
@@ -71641,7 +71641,7 @@
     <price>1395</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>432</quantity_in_stock>
+    <quantity_in_stock>429</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/omega-foundations-mega-epa-dha-120-soft-93225267659938_+7fce5b559b.jpg</picture>
     <picture>https://dsn.ua/content/images/24/omega-foundations-mega-epa-dha-120-soft-11409604095425_+b9c6081427.jpg</picture>
     <vendorCode>2022-10-1929</vendorCode>
@@ -71692,7 +71692,7 @@
     <price>1661</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>413</quantity_in_stock>
+    <quantity_in_stock>408</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/super-omega-3-epa-dha-fish-oil-sesame-lignans-olive-extractle-47695322575610_+deee7db032.jpg</picture>
     <picture>https://dsn.ua/content/images/31/super-omega-3-epa-dha-fish-oil-sesame-lignans-olive-extractle-32167694099167_+b830c3e621.jpg</picture>
     <vendorCode>2022-10-1936</vendorCode>
@@ -71794,7 +71794,7 @@
     <price>938</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>425</quantity_in_stock>
+    <quantity_in_stock>420</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/vitamins-d-and-k-with-sea-iodine-60-capsules-60-capsules-59434891055975_+df733c90cc.jpg</picture>
     <picture>https://dsn.ua/content/images/40/vitamins-d-and-k-with-sea-iodine-60-capsules-60-capsules-97618878211326_+1507a7a30c.jpg</picture>
     <vendorCode>2022-10-1945</vendorCode>
@@ -71862,7 +71862,7 @@
     <price>977</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://dsn.ua/content/images/47/menopause-73130-enteric-coated-vegetarian-tablet-11126429669341_+3d26571ebb.jpg</picture>
     <picture>https://dsn.ua/content/images/47/menopause-73130-enteric-coated-vegetarian-tablet-44093717514566_+4a50ffb91f.jpg</picture>
     <vendorCode>2022-10-1952</vendorCode>
@@ -71879,7 +71879,7 @@
     <price>1485</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>221</quantity_in_stock>
+    <quantity_in_stock>212</quantity_in_stock>
     <picture>https://dsn.ua/content/images/48/ampk-metabolic-activatorle-13570041355728_+7c484488e0.jpg</picture>
     <picture>https://dsn.ua/content/images/48/ampk-metabolic-activatorle-21779359228344_+f9376c15d4.jpg</picture>
     <vendorCode>2022-10-1953</vendorCode>
@@ -71913,7 +71913,7 @@
     <price>1230</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <picture>https://dsn.ua/content/images/2/nt2-collagen40-mg-60-small-capsules-47380984969626_+5951687c0a.jpg</picture>
     <picture>https://dsn.ua/content/images/2/nt2-collagen40-mg-60-small-capsules-66771433090041_+0e2c79c9a9.jpg</picture>
     <vendorCode>2022-10-1957</vendorCode>
@@ -71981,7 +71981,7 @@
     <price>1270</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>421</quantity_in_stock>
+    <quantity_in_stock>406</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/one-per-day-multivitamin-60-tablets-60-tablets-35339975529286_+f8473ca823.jpg</picture>
     <picture>https://dsn.ua/content/images/7/one-per-day-multivitamin-60-tablets-60-tablets-25886610029332_+4d01dfadcb.jpg</picture>
     <vendorCode>2022-10-1962</vendorCode>
@@ -72032,7 +72032,7 @@
     <price>659</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>399</quantity_in_stock>
+    <quantity_in_stock>398</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/two-per-day-multivitamin-60-tablets-60-tablets-77030733588432_+0b034b0546.jpg</picture>
     <picture>https://dsn.ua/content/images/15/two-per-day-multivitamin-60-tablets-60-tablets-63968698209245_+5f65596d54.jpg</picture>
     <vendorCode>2022-10-1970</vendorCode>
@@ -72728,7 +72728,7 @@
     <price>1650</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://dsn.ua/content/images/32/matrix-900g-strawberry-yogurt-86099770455043_+f0b1154165.jpg</picture>
     <picture>https://dsn.ua/content/images/32/matrix-900g-strawberry-yogurt-66014165809304_+9e62652df5.jpg</picture>
     <vendorCode>2023-10-2058</vendorCode>
@@ -73654,7 +73654,7 @@
     <price>612</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <picture>https://dsn.ua/content/images/46/l-lysine-with-beta-glucan-1000mg-60ct-82692999755726_+401403a031.jpg</picture>
     <picture>https://dsn.ua/content/images/46/l-lysine-with-beta-glucan-1000mg-60ct-63510518501098_+001d5bd31f.jpg</picture>
     <vendorCode>2023-10-2136</vendorCode>
@@ -74079,7 +74079,7 @@
     <price>502</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>203</quantity_in_stock>
+    <quantity_in_stock>202</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/multisaurus-chewable-mixed-berry-btl-plastic-60ct-21824677045344_+0ec9832487.jpg</picture>
     <picture>https://dsn.ua/content/images/22/multisaurus-chewable-mixed-berry-btl-plastic-60ct-88733576311318_+5c99a3e36b.jpg</picture>
     <picture>https://dsn.ua/content/images/22/multisaurus-chewable-mixed-berry-btl-plastic-60ct-95929266031726_+9f052f676f.jpg</picture>
@@ -75350,7 +75350,7 @@
     <price>436</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>1273</quantity_in_stock>
+    <quantity_in_stock>1268</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/ultra-mag-magnesium-complex-60-tablets-53776170210151_+8030113f5c.jpg</picture>
     <picture>https://dsn.ua/content/images/1/ultra-mag-magnesium-complex-60-tablets-17448480082260_+13cc1f3479.jpg</picture>
     <picture>https://dsn.ua/content/images/1/ultra-mag-magnesium-complex-60-tablets-57790559624613_+aac40192ec.jpg</picture>
@@ -75385,7 +75385,7 @@
     <price>487</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>527</quantity_in_stock>
+    <quantity_in_stock>524</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/biotin-10000-mcg-90-tabs-94180231345018_+8eed68331e.jpg</picture>
     <picture>https://dsn.ua/content/images/8/biotin-10000-mcg-90-tabs-13538315745000_+f58464458d.jpg</picture>
     <vendorCode>2023-10-2360</vendorCode>
@@ -75487,7 +75487,7 @@
     <price>650</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>123</quantity_in_stock>
+    <quantity_in_stock>121</quantity_in_stock>
     <picture>https://dsn.ua/content/images/14/vit-d3-k2-2500-iu-120-mcg-90-tabs-72846766799074_+6adca69c4d.jpg</picture>
     <picture>https://dsn.ua/content/images/14/vit-d3-k2-2500-iu-120-mcg-90-tabs-79441638028907_+3b86adc11b.jpg</picture>
     <vendorCode>2023-10-2366</vendorCode>
@@ -75538,7 +75538,7 @@
     <price>712</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>256</quantity_in_stock>
+    <quantity_in_stock>255</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/67730641145987_+616f8028f9.jpg</picture>
     <picture>https://dsn.ua/content/images/17/21635258983474_+74313d3788.jpg</picture>
     <vendorCode>2023-10-2369</vendorCode>
@@ -76594,7 +76594,7 @@
     <price>427</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>96</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/vitamin-k-2-mk-7-50mcg-30-vcaps-12268578574042_+6ff65ba551.jpg</picture>
     <picture>https://dsn.ua/content/images/50/vitamin-k-2-mk-7-50mcg-30-vcaps-43851806055043_+dc53f744ca.jpg</picture>
     <vendorCode>2023-10-2435</vendorCode>
@@ -79227,7 +79227,7 @@
     <price>470</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>216</quantity_in_stock>
+    <quantity_in_stock>215</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/magnesium-chelate-complex-100mg-100-tabs-17857138433493_+9ad41302d4.jpg</picture>
     <picture>https://dsn.ua/content/images/25/magnesium-chelate-complex-100mg-100-tabs-29714638087781_+89d3c65ce6.jpg</picture>
     <vendorCode>2023-10-2680</vendorCode>
@@ -80138,7 +80138,7 @@
     <price>821</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>84</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/lipo-jets-100-caps-35868598851651_+67e6fa0e4b.jpg</picture>
     <picture>https://dsn.ua/content/images/17/lipo-jets-100-caps-93871062456625_+9e4f4ab93d.jpg</picture>
     <picture>https://dsn.ua/content/images/17/lipo-jets-100-caps-65201416833699_+1dfe448ef7.jpg</picture>
@@ -80363,7 +80363,7 @@
     <price>1387</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/relora-300mg-120-vcaps-34068585890478_+a8f82795ac.jpg</picture>
     <picture>https://dsn.ua/content/images/7/relora-300mg-120-vcaps-91555567218767_+909759062b.jpg</picture>
     <picture>https://dsn.ua/content/images/7/relora-300mg-120-vcaps-26698158142649_+c93db57565.jpg</picture>
@@ -82410,12 +82410,12 @@
     <param name="Категории">Протеиновые батончики и печенье</param>
     <param name="Штрихкод">745240220169</param>
    </offer>
-   <offer id="27723" group_id="24500452" available="true">
+   <offer id="27723" group_id="24500452" available="">
     <url>https://dsn.ua/ru/l-arginine-700mg-180-vcaps/27723/</url>
     <price>910</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/l-arginine-700mg-180-vcapsid-40775131763453_+acf6585983.jpg</picture>
     <picture>https://dsn.ua/content/images/24/l-arginine-700mg-180-vcapsid-17020861701119_+c95e2a66c2.jpg</picture>
     <picture>https://dsn.ua/content/images/24/l-arginine-700mg-180-vcapsid-95290678391425_+6aa93a91ae.jpg</picture>
@@ -83575,7 +83575,7 @@
     <price>347</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/nac-600mg-60-caps-97168723379444_+9a00a10f97.jpg</picture>
     <picture>https://dsn.ua/content/images/9/nac-600mg-60-caps-29113830784257_+0e1572abab.jpg</picture>
     <vendorCode>2023-10-3098</vendorCode>
@@ -85801,7 +85801,7 @@
     <price>464</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>964</quantity_in_stock>
+    <quantity_in_stock>960</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/ultra-mag-90-vcaps-46992780078843_+7a5e3f6bd1.jpg</picture>
     <picture>https://dsn.ua/content/images/29/ultra-mag-90-vcaps-64382362144806_+7ff42542cd.jpg</picture>
     <picture>https://dsn.ua/content/images/29/ultra-mag-90-vcaps-55632885507202_+72a778245d.jpg</picture>
@@ -85819,7 +85819,7 @@
     <price>856</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>1358</quantity_in_stock>
+    <quantity_in_stock>1357</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/ultra-mag-180-vcaps-40170635474136_+e877fd19ef.jpg</picture>
     <picture>https://dsn.ua/content/images/31/ultra-mag-180-vcaps-55348668524532_+9ba51d4b08.jpg</picture>
     <picture>https://dsn.ua/content/images/31/ultra-mag-180-vcaps-86560469479855_+e2b530e25a.jpg</picture>
@@ -86266,7 +86266,7 @@
     <price>746</price>
     <currencyId>UAH</currencyId>
     <categoryId>1313</categoryId>
-    <quantity_in_stock>1037</quantity_in_stock>
+    <quantity_in_stock>1036</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/organic-lions-mane-extract-60-veg-caps-17689628252229_+00feff5b09.png</picture>
     <picture>https://dsn.ua/content/images/43/organic-lions-mane-extract-60-veg-caps-53447369661136_+ca87f17fd1.png</picture>
     <picture>https://dsn.ua/content/images/43/organic-lions-mane-extract-60-veg-caps-40478701039585_+bad3f94990.png</picture>
@@ -87166,12 +87166,12 @@
     <param name="Категории">Коэнзим Q-10|Сердечно-сосудистая система</param>
     <param name="Штрихкод">023249011354</param>
    </offer>
-   <offer id="28333" group_id="25107452" available="true">
+   <offer id="28333" group_id="25107452" available="">
     <url>https://dsn.ua/ru/turmeric-curcumin-c3-complex-500mg-60-softgels/</url>
     <price>1225</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/36847929089975_+1deeddc208.jpg</picture>
     <picture>https://dsn.ua/content/images/34/turmeric-curcumin-c3-complex-500mg-60-softgels-28933952605195_+4ae90d935f.jpg</picture>
     <vendorCode>2023-10-3440</vendorCode>
@@ -87188,7 +87188,7 @@
     <price>2103</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>1027</quantity_in_stock>
+    <quantity_in_stock>1026</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/collagen-peptides-454g-unflavored-84974893810732_+f569112e81.jpg</picture>
     <picture>https://dsn.ua/content/images/35/41039592198222_+d4cb013406.jpg</picture>
     <vendorCode>2023-10-3441</vendorCode>
@@ -87239,7 +87239,7 @@
     <price>1631</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>1281</quantity_in_stock>
+    <quantity_in_stock>1277</quantity_in_stock>
     <picture>https://dsn.ua/content/images/38/omega-3-fish-oil-alaska-pollock-1250mg-90-softgels-71314556995295_+831cc8a0a3.jpg</picture>
     <picture>https://dsn.ua/content/images/38/omega-3-fish-oil-alaska-pollock-1250mg-90-softgels-82307248329356_+de0a41b369.jpg</picture>
     <vendorCode>2023-10-3444</vendorCode>
@@ -87290,7 +87290,7 @@
     <price>1080</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>37</quantity_in_stock>
+    <quantity_in_stock>34</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/biotin-10000mcg-120-veg-softgels-59769299709223_+a948e118b4.jpg</picture>
     <picture>https://dsn.ua/content/images/41/45264439860210_+951b1d46f9.jpg</picture>
     <vendorCode>2023-10-3447</vendorCode>
@@ -87307,7 +87307,7 @@
     <price>936</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/biotin-5000mcg-120-veg-softgels-68752754878337_+6da93f811a.jpg</picture>
     <picture>https://dsn.ua/content/images/42/biotin-5000mcg-120-veg-softgels-50430892916011_+e8559fd0ad.jpg</picture>
     <vendorCode>2023-10-3448</vendorCode>
@@ -87375,7 +87375,7 @@
     <price>1017</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/berberine-750-mg-60-caps-63196132820789_+0f7e9904d9.jpg</picture>
     <picture>https://dsn.ua/content/images/20/berberine-750-mg-60-caps-89129054388760_+cb5e202f58.jpg</picture>
     <vendorCode>2023-10-3452</vendorCode>
@@ -87528,7 +87528,7 @@
     <price>600</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>546</quantity_in_stock>
+    <quantity_in_stock>540</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/hema-plex-60-softgels-86268669956535_+f9ffc22cfc.jpg</picture>
     <picture>https://dsn.ua/content/images/1/hema-plex-60-softgels-72985578285645_+3f02bddfae.jpg</picture>
     <vendorCode>2023-10-3461</vendorCode>
@@ -87818,7 +87818,7 @@
     <price>832</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>1984</quantity_in_stock>
+    <quantity_in_stock>1983</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/chitosan-120caps-97511207356506_+ca0cb8e6e1.jpeg</picture>
     <picture>https://dsn.ua/content/images/37/chitosan-120caps-75794724759449_+b37aa36053.jpeg</picture>
     <picture>https://dsn.ua/content/images/37/chitosan-120caps-17758494019880_+d5ad5739ad.jpeg</picture>
@@ -88394,7 +88394,7 @@
     <price>339</price>
     <currencyId>UAH</currencyId>
     <categoryId>1186</categoryId>
-    <quantity_in_stock>221</quantity_in_stock>
+    <quantity_in_stock>219</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/65092770867966_+19eaaec313.jpg</picture>
     <picture>https://dsn.ua/content/images/45/bcaa-bomb-2-1-1-150g-mango-13017343084569_+2496150dff.png</picture>
     <vendorCode>2023-10-3537</vendorCode>
@@ -88411,7 +88411,7 @@
     <price>339</price>
     <currencyId>UAH</currencyId>
     <categoryId>1186</categoryId>
-    <quantity_in_stock>103</quantity_in_stock>
+    <quantity_in_stock>102</quantity_in_stock>
     <picture>https://dsn.ua/content/images/46/60783888755378_+a8dc3a4884.jpg</picture>
     <picture>https://dsn.ua/content/images/46/bcaa-bomb-2-1-1-150g-strawberry-41506506134536_+ae585b9873.png</picture>
     <vendorCode>2023-10-3538</vendorCode>
@@ -90212,7 +90212,7 @@
     <price>936</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>715</quantity_in_stock>
+    <quantity_in_stock>712</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/94041229866717_+9215aeb285.jpg</picture>
     <picture>https://dsn.ua/content/images/36/magnesium-with-vitamin-b6-250-tabs-95161371677961_+36ffc69932.jpg</picture>
     <vendorCode>2023-10-3676</vendorCode>
@@ -90263,7 +90263,7 @@
     <price>899</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>227</quantity_in_stock>
+    <quantity_in_stock>225</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/choline-inositol-500-mg-500-mg-100-vcaps-37598292747025_+532a1f0244.jpg</picture>
     <picture>https://dsn.ua/content/images/39/choline-inositol-500-mg-500-mg-100-vcaps-45647575966546_+231f17a0da.jpg</picture>
     <vendorCode>2023-10-3679</vendorCode>
@@ -90331,7 +90331,7 @@
     <price>687</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>62</quantity_in_stock>
+    <quantity_in_stock>60</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/vitamin-b12-1000mcg-100-nuggets-93636844860607_+8685d7aee9.jpg</picture>
     <picture>https://dsn.ua/content/images/43/vitamin-b12-1000mcg-100-nuggets-78390881825443_+4c21f61fa9.jpg</picture>
     <vendorCode>2023-10-3683</vendorCode>
@@ -90434,7 +90434,7 @@
     <price>1047</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>266</quantity_in_stock>
+    <quantity_in_stock>263</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/collagen-hyaluronic-acid-complex-30-tabs-17344020746563_+676edbd23f.jpg</picture>
     <picture>https://dsn.ua/content/images/49/collagen-hyaluronic-acid-complex-30-tabs-17140830299659_+ce9588f13e.jpg</picture>
     <vendorCode>2023-10-3689</vendorCode>
@@ -90451,7 +90451,7 @@
     <price>2224</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>59</quantity_in_stock>
+    <quantity_in_stock>57</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/extra-strength-glucosamine-chondroitin-msm-with-ester-c-180-tabs-39044294338054_+732725c560.jpg</picture>
     <picture>https://dsn.ua/content/images/50/extra-strength-glucosamine-chondroitin-msm-with-ester-c-180-tabs-42172693950090_+2167f1fa8b.jpg</picture>
     <vendorCode>2023-10-3690</vendorCode>
@@ -90536,7 +90536,7 @@
     <price>602</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>959</quantity_in_stock>
+    <quantity_in_stock>958</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/calcium-magnesium-plus-zinc-100-tabs-58633503387546_+35e3299237.jpg</picture>
     <picture>https://dsn.ua/content/images/5/calcium-magnesium-plus-zinc-100-tabs-43357548852190_+0f77d51553.jpg</picture>
     <vendorCode>2023-10-3695</vendorCode>
@@ -90586,7 +90586,7 @@
     <price>681</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>974</quantity_in_stock>
+    <quantity_in_stock>972</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/b-complex-100-50-vcaps-73001895964036_+b07edf2241.jpg</picture>
     <picture>https://dsn.ua/content/images/8/b-complex-100-50-vcaps-76343879875481_+a9f7ea4db7.jpg</picture>
     <vendorCode>2023-10-3698</vendorCode>
@@ -90620,7 +90620,7 @@
     <price>681</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/b-complex-with-vitamin-c-stress-formula-100-tabs-92167170692544_+f6a66f2554.jpg</picture>
     <picture>https://dsn.ua/content/images/10/b-complex-with-vitamin-c-stress-formula-100-tabs-82160293737269_+24b7c6efe9.jpg</picture>
     <vendorCode>2023-10-3700</vendorCode>
@@ -90637,7 +90637,7 @@
     <price>834</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>94</quantity_in_stock>
+    <quantity_in_stock>91</quantity_in_stock>
     <picture>https://dsn.ua/content/images/11/inositol-500-mg-100-vcaps-72905377091843_+e15bba8f15.jpg</picture>
     <picture>https://dsn.ua/content/images/11/inositol-500-mg-100-vcaps-96932726078075_+b45bf07ac7.jpg</picture>
     <vendorCode>2023-10-3701</vendorCode>
@@ -90705,7 +90705,7 @@
     <price>445</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>109</quantity_in_stock>
+    <quantity_in_stock>108</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/vitamin-b6-100mg-100-tabs-44848942661534_+fec0c45a98.jpg</picture>
     <picture>https://dsn.ua/content/images/15/vitamin-b6-100mg-100-tabs-21230323070248_+194390e7c7.jpg</picture>
     <vendorCode>2023-10-3705</vendorCode>
@@ -90739,7 +90739,7 @@
     <price>657</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>510</quantity_in_stock>
+    <quantity_in_stock>509</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/taurine-500mg-100-vcaps-91003949566794_+ee81b6828f.jpg</picture>
     <picture>https://dsn.ua/content/images/17/taurine-500mg-100-vcaps-32823235949416_+9359eaec40.jpg</picture>
     <vendorCode>2023-10-3707</vendorCode>
@@ -91001,7 +91001,7 @@
     <price>830</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>956</quantity_in_stock>
+    <quantity_in_stock>954</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/omega-3-fish-oil-concentrate-120-softgels-90472945676571_+6d5c9e5e27.jpg</picture>
     <picture>https://dsn.ua/content/images/37/omega-3-fish-oil-concentrate-120-softgels-40112223697254_+6603dca454.jpg</picture>
     <vendorCode>100-58-5816361-20</vendorCode>
@@ -91052,7 +91052,7 @@
     <price>657</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>758</quantity_in_stock>
+    <quantity_in_stock>756</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/vitamin-d3-cholecalciferol-125-mcg-5000-iu-60-vcaps-21353696891318_+f536577f70.jpg</picture>
     <picture>https://dsn.ua/content/images/40/vitamin-d3-cholecalciferol-125-mcg-5000-iu-60-vcaps-52894504333713_+6c7ca35fef.jpg</picture>
     <vendorCode>100-78-7449561-20</vendorCode>
@@ -91069,7 +91069,7 @@
     <price>719</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>117</quantity_in_stock>
+    <quantity_in_stock>115</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/vitamin-d3-cholecalciferol-55-mcg-2200-iu-100-vcaps-44628971938342_+a21d60325c.jpg</picture>
     <picture>https://dsn.ua/content/images/41/vitamin-d3-cholecalciferol-55-mcg-2200-iu-100-vcaps-50503005731943_+b8c10c1b29.jpg</picture>
     <vendorCode>100-22-3570925-20</vendorCode>
@@ -91236,7 +91236,7 @@
     <price>170</price>
     <currencyId>UAH</currencyId>
     <categoryId>1058</categoryId>
-    <quantity_in_stock>201</quantity_in_stock>
+    <quantity_in_stock>200</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/25126594528689_+084436e5aa.jpg</picture>
     <vendorCode>100-22-3000770-20</vendorCode>
     <vendor>Universal Nutrition</vendor>
@@ -91302,7 +91302,7 @@
     <price>246</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>168</quantity_in_stock>
+    <quantity_in_stock>167</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/vitamin-k-2-200-tabs-28727895686188_+932a093b53.jpg</picture>
     <picture>https://dsn.ua/content/images/35/vitamin-k-2-200-tabs-58562226857945_+8ea144d134.jpg</picture>
     <vendorCode>2023-10-3745</vendorCode>
@@ -91869,7 +91869,7 @@
     <price>589</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>180</quantity_in_stock>
+    <quantity_in_stock>179</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/vitamin-k2-120mcg-60-vcaps-47181590479214_+3c92a60312.jpg</picture>
     <picture>https://dsn.ua/content/images/28/vitamin-k2-120mcg-60-vcaps-82093064529877_+2e09d78007.jpg</picture>
     <vendorCode>2023-10-3809</vendorCode>
@@ -92056,7 +92056,7 @@
     <price>618</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>812</quantity_in_stock>
+    <quantity_in_stock>811</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/magnesium-bisglycinate-200mg-120-vcaps-56992141165723_+27c670df9c.jpg</picture>
     <picture>https://dsn.ua/content/images/39/magnesium-bisglycinate-200mg-120-vcaps-21459254297994_+800c414f29.jpg</picture>
     <vendorCode>2023-10-3820</vendorCode>
@@ -92227,7 +92227,7 @@
     <price>523</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>94</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/n-acetyl-l-cysteine-amino-acid-600mg-60-vcaps-16058803587210_+8431649928.jpg</picture>
     <picture>https://dsn.ua/content/images/49/n-acetyl-l-cysteine-amino-acid-600mg-60-vcaps-94005908100129_+d619ef92a7.jpg</picture>
     <vendorCode>2023-10-3830</vendorCode>
@@ -92466,7 +92466,7 @@
     <price>924</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>1544</quantity_in_stock>
+    <quantity_in_stock>1543</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/chlorofresh-mint-40x-liquid-59-ml-78487579616236_+a833ad6884.jpg</picture>
     <picture>https://dsn.ua/content/images/29/chlorofresh-mint-40x-liquid-59-ml-61957846302033_+607e0e6be8.jpg</picture>
     <picture>https://dsn.ua/content/images/29/chlorofresh-mint-40x-liquid-59-ml-19160308863310_+ca0eff9862.jpg</picture>
@@ -92537,7 +92537,7 @@
     <price>604</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>838</quantity_in_stock>
+    <quantity_in_stock>837</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/mens-multivitamin-formula-60-caps-21564097825854_+e4d0086483.jpg</picture>
     <picture>https://dsn.ua/content/images/34/mens-multivitamin-formula-60-caps-33443179095236_+ff54bcf8b7.jpg</picture>
     <picture>https://dsn.ua/content/images/34/mens-multivitamin-formula-60-caps-32229897519087_+42644e1ff2.jpg</picture>
@@ -92554,7 +92554,7 @@
     <price>605</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>623</quantity_in_stock>
+    <quantity_in_stock>622</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/womens-multivitamin-formula-60-caps-13392530421419_+7d6488b76c.jpg</picture>
     <picture>https://dsn.ua/content/images/35/womens-multivitamin-formula-60-caps-21857900618180_+9241e41c04.jpg</picture>
     <picture>https://dsn.ua/content/images/35/womens-multivitamin-formula-60-caps-43606156852342_+719029bd56.jpg</picture>
@@ -92590,7 +92590,7 @@
     <price>691</price>
     <currencyId>UAH</currencyId>
     <categoryId>1307</categoryId>
-    <quantity_in_stock>1150</quantity_in_stock>
+    <quantity_in_stock>1147</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/hair-follicle-stimulator-237-ml-33006875127873_+9decb87514.jpg</picture>
     <picture>https://dsn.ua/content/images/7/hair-follicle-stimulator-237-ml-76692387053552_+32399c5f63.jpg</picture>
     <vendorCode>2023-10-3886</vendorCode>
@@ -93777,7 +93777,7 @@
     <price>750</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://dsn.ua/content/images/13/cool-calm-collected-40-gummies-23641529738422_+95b0bf2481.jpg</picture>
     <picture>https://dsn.ua/content/images/13/cool-calm-collected-40-gummies-32377651285640_+60448dacc2.jpg</picture>
     <vendorCode>2023-10-4005</vendorCode>
@@ -93811,7 +93811,7 @@
     <price>3902</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>155</quantity_in_stock>
+    <quantity_in_stock>154</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/collagen-peptides-907g-unflavored-37310959248421_+bb6502ad04.jpg</picture>
     <picture>https://dsn.ua/content/images/15/collagen-peptides-907g-unflavored-28637974054770_+1d5bfcef84.jpg</picture>
     <vendorCode>2023-10-4007</vendorCode>
@@ -93828,7 +93828,7 @@
     <price>2986</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>226</quantity_in_stock>
+    <quantity_in_stock>215</quantity_in_stock>
     <picture>https://dsn.ua/content/images/16/omega-3-fish-oil-alaska-1250mg-180-softgels-29500711155677_+2590f444dd.jpg</picture>
     <picture>https://dsn.ua/content/images/16/omega-3-fish-oil-alaska-1250mg-180-softgels-56600289999551_+203700a963.jpg</picture>
     <vendorCode>2023-10-4008</vendorCode>
@@ -93862,7 +93862,7 @@
     <price>1514</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>221</quantity_in_stock>
+    <quantity_in_stock>219</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/vegan-d3-5000iu-vitamin-k2-100mcg-60-softgels-11509996216391_+e08801b213.jpg</picture>
     <picture>https://dsn.ua/content/images/18/vegan-d3-5000iu-vitamin-k2-100mcg-60-softgels-76985943746985_+65d794da85.jpg</picture>
     <vendorCode>2023-10-4010</vendorCode>
@@ -94165,7 +94165,7 @@
     <price>884</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>395</quantity_in_stock>
+    <quantity_in_stock>394</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/wellbetx-berberine-500mg-60-vcaps-62303079961473_+789214adc3.jpg</picture>
     <picture>https://dsn.ua/content/images/35/wellbetx-berberine-500mg-60-vcaps-48112080259876_+72d047337b.jpg</picture>
     <vendorCode>2023-10-4053</vendorCode>
@@ -94216,7 +94216,7 @@
     <price>428</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>574</quantity_in_stock>
+    <quantity_in_stock>571</quantity_in_stock>
     <picture>https://dsn.ua/content/images/38/ashwagandha-extract-standardized-450mg-60-caps-21536589215694_+a791ed41a3.jpg</picture>
     <picture>https://dsn.ua/content/images/38/ashwagandha-extract-standardized-450mg-60-caps-58339969251646_+b34db04051.jpg</picture>
     <vendorCode>2023-10-4056</vendorCode>
@@ -94306,7 +94306,7 @@
     <price>408</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>107</quantity_in_stock>
+    <quantity_in_stock>104</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/type-i-hydrolyzed-marine-collagen-peptides-400mg-60-caps-88606428566166_+2d07cb9ec9.jpg</picture>
     <picture>https://dsn.ua/content/images/43/type-i-hydrolyzed-marine-collagen-peptides-400mg-60-caps-25644845820342_+79463f991a.jpg</picture>
     <vendorCode>2023-10-4061</vendorCode>
@@ -94391,7 +94391,7 @@
     <price>263</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>39</quantity_in_stock>
+    <quantity_in_stock>38</quantity_in_stock>
     <picture>https://dsn.ua/content/images/48/full-spectrum-spearmint-leaf-400mg-60-caps-54218077148464_+7cf243772f.jpg</picture>
     <picture>https://dsn.ua/content/images/48/full-spectrum-spearmint-leaf-400mg-60-caps-22450687520916_+beca62f793.jpg</picture>
     <vendorCode>2023-10-4065</vendorCode>
@@ -94444,7 +94444,7 @@
     <price>291</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>452</quantity_in_stock>
+    <quantity_in_stock>451</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/extra-strength-zinc-picolinate-body-preferred-form-50mg-60-caps-69526636974254_+16e1c1cdd3.jpg</picture>
     <picture>https://dsn.ua/content/images/1/extra-strength-zinc-picolinate-body-preferred-form-50mg-60-caps-99838401632368_+3f48ca6ae2.jpg</picture>
     <vendorCode>2023-10-4068</vendorCode>
@@ -94513,7 +94513,7 @@
     <price>534</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>636</quantity_in_stock>
+    <quantity_in_stock>634</quantity_in_stock>
     <picture>https://dsn.ua/content/images/5/inositol-650mg-100-caps-26528388754531_+2b8235d71b.jpg</picture>
     <picture>https://dsn.ua/content/images/5/inositol-650mg-100-caps-42095526112235_+363eb5baf4.jpg</picture>
     <vendorCode>2023-10-4072</vendorCode>
@@ -95037,7 +95037,7 @@
     <price>1447</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>130</quantity_in_stock>
+    <quantity_in_stock>129</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/calcium-citrate-with-vitamin-d3-240-tabs-12234451906557_+0d02c78557.jpg</picture>
     <picture>https://dsn.ua/content/images/24/calcium-citrate-with-vitamin-d3-240-tabs-39070838020556_+e023778030.jpg</picture>
     <vendorCode>2023-10-4110</vendorCode>
@@ -95071,7 +95071,7 @@
     <price>1717</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>65</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/calcium-magnesium-with-vitamin-d3-300-tabs-94320413357516_+61c35e9082.jpg</picture>
     <picture>https://dsn.ua/content/images/26/calcium-magnesium-with-vitamin-d3-300-tabs-69166135604630_+2246469099.jpg</picture>
     <vendorCode>2023-10-4112</vendorCode>
@@ -95122,7 +95122,7 @@
     <price>834</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>176</quantity_in_stock>
+    <quantity_in_stock>175</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/megasorb-coq-10-100mg-30-softgels-88433455156995_+04b8225452.jpg</picture>
     <picture>https://dsn.ua/content/images/29/megasorb-coq-10-100mg-30-softgels-64512640108572_+4dfd763652.jpg</picture>
     <vendorCode>2023-10-4115</vendorCode>
@@ -95348,7 +95348,7 @@
     <price>510</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>1145</quantity_in_stock>
+    <quantity_in_stock>1143</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/magnesium-with-vitamin-b6-100-tabs-89746382276942_+d22464c7a1.jpg</picture>
     <picture>https://dsn.ua/content/images/42/magnesium-with-vitamin-b6-100-tabs-20819594416963_+6ccb9edafb.jpg</picture>
     <vendorCode>2023-10-4128</vendorCode>
@@ -95643,7 +95643,7 @@
     <price>2003</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/sfp-ginkgo-biloba-leaf-extract-180-vcaps-80339301036848_+1efed8f731.jpg</picture>
     <picture>https://dsn.ua/content/images/9/sfp-ginkgo-biloba-leaf-extract-180-vcaps-57101890146716_+952e1a9be0.jpg</picture>
     <vendorCode>2023-10-4145</vendorCode>
@@ -97057,7 +97057,7 @@
     <price>2723</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>716</quantity_in_stock>
+    <quantity_in_stock>715</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/inositol-1000mg-360-vcaps-74800548845639_+8845fe1976.jpg</picture>
     <picture>https://dsn.ua/content/images/44/inositol-1000mg-360-vcaps-55672190198930_+b479b3d324.jpg</picture>
     <vendorCode>2023-10-4280</vendorCode>
@@ -97432,7 +97432,7 @@
     <price>1251</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/body-trim-and-appetite-control-30-vcaps-13358518152340_+9f5a6ed581.jpg</picture>
     <picture>https://dsn.ua/content/images/35/body-trim-and-appetite-control-30-vcaps-66619267373125_+08b9ac30e7.jpg</picture>
     <vendorCode>2023-10-4321</vendorCode>
@@ -98013,7 +98013,7 @@
     <price>1080</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/50/magnesium-glycinate-160mg-60-softgels-61673231316348_+d916d0f6dc.jpg</picture>
     <picture>https://dsn.ua/content/images/50/magnesium-glycinate-160mg-60-softgels-57098610882888_+e787301255.jpg</picture>
     <vendorCode>2023-10-4403</vendorCode>
@@ -98132,7 +98132,7 @@
     <price>600</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>243</quantity_in_stock>
+    <quantity_in_stock>242</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/hema-plex-60-mini-tabs-99980870430586_+f8fc8a78e5.jpg</picture>
     <picture>https://dsn.ua/content/images/7/hema-plex-60-mini-tabs-12558261893641_+fdb5d60710.jpg</picture>
     <vendorCode>2023-10-4410</vendorCode>
@@ -98149,7 +98149,7 @@
     <price>506</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>182</quantity_in_stock>
+    <quantity_in_stock>181</quantity_in_stock>
     <picture>https://dsn.ua/content/images/8/hema-plex-60-chewable-tabs-68072601232631_+8bc3e3c4f1.jpg</picture>
     <picture>https://dsn.ua/content/images/8/hema-plex-60-chewable-tabs-65384822031289_+06634b5352.jpg</picture>
     <picture>https://dsn.ua/content/images/8/hema-plex-60-chewable-tabs-21513051179908_+8b3adaa7ab.jpg</picture>
@@ -98603,7 +98603,7 @@
     <price>563</price>
     <currencyId>UAH</currencyId>
     <categoryId>1306</categoryId>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/liposomal-vitamin-c-for-kids-30-caps-92245755199070_+4617736df4.jpg</picture>
     <picture>https://dsn.ua/content/images/34/liposomal-vitamin-c-for-kids-30-caps-55817278380161_+e51afc6705.jpg</picture>
     <vendorCode>2022-10-2461</vendorCode>
@@ -100528,7 +100528,7 @@
     <price>478</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>427</quantity_in_stock>
+    <quantity_in_stock>426</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/magnesium-malate-625mg-100-caps-33903405860856_+28ad043573.jpg</picture>
     <picture>https://dsn.ua/content/images/40/magnesium-malate-625mg-100-caps-32489611998687_+76cd5001aa.jpg</picture>
     <vendorCode>2023-10-4626</vendorCode>
@@ -101117,7 +101117,7 @@
     <price>1603</price>
     <currencyId>UAH</currencyId>
     <categoryId>1310</categoryId>
-    <quantity_in_stock>552</quantity_in_stock>
+    <quantity_in_stock>551</quantity_in_stock>
     <picture>https://dsn.ua/content/images/45/collagen-peptides-284g-unflavored-61643372725127_+e0ed364bf1.jpg</picture>
     <picture>https://dsn.ua/content/images/45/collagen-peptides-284g-unflavored-49635940267523_+862ab139dc.jpg</picture>
     <vendorCode>2023-10-4681</vendorCode>
@@ -101613,7 +101613,7 @@
     <price>1383</price>
     <currencyId>UAH</currencyId>
     <categoryId>1309</categoryId>
-    <quantity_in_stock>1025</quantity_in_stock>
+    <quantity_in_stock>1022</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/myo-d-chiro-inositol-120-caps-78770715561703_+0588ac9fbc.jpg</picture>
     <picture>https://dsn.ua/content/images/19/myo-d-chiro-inositol-120-caps-27872858037437_+0d8abb718d.jpg</picture>
     <vendorCode>2023-10-4757</vendorCode>
@@ -101648,7 +101648,7 @@
     <price>1106</price>
     <currencyId>UAH</currencyId>
     <categoryId>1309</categoryId>
-    <quantity_in_stock>712</quantity_in_stock>
+    <quantity_in_stock>705</quantity_in_stock>
     <picture>https://dsn.ua/content/images/21/myo-inositol-120-caps-44393558484691_+3121854d43.png</picture>
     <picture>https://dsn.ua/content/images/21/myo-inositol-120-caps-74973460922025_+a639669c35.png</picture>
     <vendorCode>2023-10-4759</vendorCode>
@@ -101665,7 +101665,7 @@
     <price>2045</price>
     <currencyId>UAH</currencyId>
     <categoryId>1309</categoryId>
-    <quantity_in_stock>237</quantity_in_stock>
+    <quantity_in_stock>234</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/myo-inositol-240-caps-22083524895319_+aaf5b44df5.jpg</picture>
     <picture>https://dsn.ua/content/images/22/myo-inositol-240-caps-74789502213040_+d2fd1176ce.jpg</picture>
     <vendorCode>2023-10-4760</vendorCode>
@@ -102732,7 +102732,7 @@
     <price>416</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/magnesium-citrate-60-vcaps-21764707608208_+ce7e2acf15.jpg</picture>
     <picture>https://dsn.ua/content/images/10/magnesium-citrate-60-vcaps-94990919023530_+8b711e6661.jpg</picture>
     <picture>https://dsn.ua/content/images/10/magnesium-citrate-60-vcaps-33128564793234_+89df779ce6.jpg</picture>
@@ -103007,7 +103007,7 @@
     <price>410</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/biotin-fast-melt-10000-mcg-60-tabs-35908517328706_+f68151d3f5.jpg</picture>
     <picture>https://dsn.ua/content/images/29/biotin-fast-melt-10000-mcg-60-tabs-13046893197034_+28b6eb4a38.jpg</picture>
     <vendorCode>2023-10-5122</vendorCode>
@@ -103515,7 +103515,7 @@
     <price>308</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>144</quantity_in_stock>
+    <quantity_in_stock>143</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/drinking-bottle-gripper-750ml-blue-98339221114550_+f9f89074d9.jpg</picture>
     <vendorCode>2023-10-5163</vendorCode>
     <vendor>VPLab</vendor>
@@ -103590,7 +103590,7 @@
     <price>220</price>
     <currencyId>UAH</currencyId>
     <categoryId>1097</categoryId>
-    <quantity_in_stock>143</quantity_in_stock>
+    <quantity_in_stock>142</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/shaker-with-blender-ball-500ml-pink-18242113243799_+272712f848.jpg</picture>
     <vendorCode>2023-10-5168</vendorCode>
     <vendor>VPLab</vendor>
@@ -104115,7 +104115,7 @@
     <price>714</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>160</quantity_in_stock>
+    <quantity_in_stock>159</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/lithium-orotate-5mg-120-vcaps-44094799768995_+3e0cd873fe.jpg</picture>
     <picture>https://dsn.ua/content/images/7/lithium-orotate-5mg-120-vcaps-96245020014238_+5c90bc66ab.jpg</picture>
     <vendorCode>2023-10-5196</vendorCode>
@@ -104271,7 +104271,7 @@
     <price>366</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>117</quantity_in_stock>
+    <quantity_in_stock>116</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/boron-3-mg-100-vcaps-68548691383949_+f81ff0a7a0.jpg</picture>
     <picture>https://dsn.ua/content/images/18/boron-3-mg-100-vcaps-19502842476252_+099bb43ad3.jpg</picture>
     <vendorCode>2023-10-5207</vendorCode>
@@ -104357,7 +104357,7 @@
     <price>1270</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://dsn.ua/content/images/23/childrens-formula-life-extension-mix-120-chewable-tabs-53967335388684_+9769496f6a.jpg</picture>
     <picture>https://dsn.ua/content/images/23/childrens-formula-life-extension-mix-120-chewable-tabs-52985380054312_+d3780f6490.jpg</picture>
     <vendorCode>2023-10-5213</vendorCode>
@@ -104680,7 +104680,7 @@
     <price>2093</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/pea-protein-907g-chocolate-16695209311564_+9ec633d6d1.jpg</picture>
     <picture>https://dsn.ua/content/images/42/pea-protein-907g-chocolate-38227089035957_+f30ecce601.jpg</picture>
     <vendorCode>2023-10-5232</vendorCode>
@@ -105537,7 +105537,7 @@
     <price>662</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/attentive-child-60-tabs-92557772423651_+61cd059130.jpg</picture>
     <picture>https://dsn.ua/content/images/49/attentive-child-60-tabs-56562193820644_+9b24e52c61.jpg</picture>
     <vendorCode>2023-10-5294</vendorCode>
@@ -106490,7 +106490,7 @@
     <price>938</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>102</quantity_in_stock>
+    <quantity_in_stock>97</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/65197863580170_+2ee4ae1bbe.jpg</picture>
     <picture>https://dsn.ua/content/images/22/73676412741026_+2ff87231ce.jpg</picture>
     <vendorCode>2023-10-5455</vendorCode>
@@ -106524,7 +106524,7 @@
     <price>703</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>287</quantity_in_stock>
+    <quantity_in_stock>286</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/46731497483460_+33c7511b03.jpg</picture>
     <picture>https://dsn.ua/content/images/24/47591281314661_+ab023751a3.jpg</picture>
     <vendorCode>2023-10-5457</vendorCode>
@@ -106541,7 +106541,7 @@
     <price>1055</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>82</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/69241739543415_+32812d6a24.jpg</picture>
     <picture>https://dsn.ua/content/images/25/same-200mg-30-enteric-coated-vegetarian-tabs-95143474824828_+35ac41062e.jpg</picture>
     <vendorCode>2023-10-5458</vendorCode>
@@ -106559,7 +106559,7 @@
     <price>616</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>486</quantity_in_stock>
+    <quantity_in_stock>485</quantity_in_stock>
     <picture>https://dsn.ua/content/images/26/39174273217979_+898613c953.jpg</picture>
     <picture>https://dsn.ua/content/images/26/n-acetyl-l-cysteine-nac-600mg-60-caps-87214537375697_+b2f51be931.jpg</picture>
     <vendorCode>2023-10-5459</vendorCode>
@@ -106866,7 +106866,7 @@
     <price>2544</price>
     <currencyId>UAH</currencyId>
     <categoryId>1309</categoryId>
-    <quantity_in_stock>374</quantity_in_stock>
+    <quantity_in_stock>373</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/myo-d-chiro-inositol-240-caps-64856303498048_+a6f789d92a.jpg</picture>
     <picture>https://dsn.ua/content/images/1/myo-d-chiro-inositol-240-caps-49832411701153_+aa17b7edc7.jpg</picture>
     <picture>https://dsn.ua/content/images/1/myo-d-chiro-inositol-240-caps-11928919063004_+55b7b2b6a1.jpg</picture>
@@ -107454,12 +107454,12 @@
     <param name="Категории">Красота|Колаген</param>
     <param name="Штрихкод">097467459694</param>
    </offer>
-   <offer id="30469" group_id="27237452" available="true">
+   <offer id="30469" group_id="27237452" available="">
     <url>https://dsn.ua/ru/her-journey-once-daily-multi-30-tabs/</url>
     <price>708</price>
     <currencyId>UAH</currencyId>
     <categoryId>1181</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/her-journey-once-daily-multi-30-tabs-91115822409227_+ec0a4eb3b0.jpg</picture>
     <picture>https://dsn.ua/content/images/20/her-journey-once-daily-multi-30-tabs-24479709769042_+8e12f468bf.jpg</picture>
     <picture>https://dsn.ua/content/images/20/her-journey-once-daily-multi-30-tabs-54011882966998_+de6d208ca2.jpg</picture>
@@ -107477,7 +107477,7 @@
     <price>1947</price>
     <currencyId>UAH</currencyId>
     <categoryId>1320</categoryId>
-    <quantity_in_stock>39</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <picture>https://dsn.ua/content/images/21/collagen-peptides-organic-matcha-288g-green-tea-47134373136583_+17a82b0885.jpg</picture>
     <picture>https://dsn.ua/content/images/21/collagen-peptides-organic-matcha-288g-green-tea-43452544768708_+1eb4d8a2fe.jpg</picture>
     <vendorCode>2023-10-5542</vendorCode>
@@ -107614,7 +107614,7 @@
     <price>918</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>216</quantity_in_stock>
+    <quantity_in_stock>211</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/alpha-lipoic-acid-600mg-60-capsid-49708135856041_+748728d3bf.jpg</picture>
     <picture>https://dsn.ua/content/images/36/alpha-lipoic-acid-600mg-60-capsid-80935926267478_+fae70810a7.jpg</picture>
     <vendorCode>2023-10-5556</vendorCode>
@@ -108540,7 +108540,7 @@
     <price>394</price>
     <currencyId>UAH</currencyId>
     <categoryId>1186</categoryId>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/collagen-hyaluron-60-capsid-83825357557311_+80b8a7585b.jpg</picture>
     <picture>https://dsn.ua/content/images/41/collagen-hyaluron-60-capsid-22313622376612_+8807ce8e4d.jpg</picture>
     <vendorCode>2023-10-5627</vendorCode>
@@ -108845,7 +108845,7 @@
     <price>760</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>321</quantity_in_stock>
+    <quantity_in_stock>320</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/chelated-magnesium-100-tabs-71074632664683_+ad4cc204f4.jpg</picture>
     <picture>https://dsn.ua/content/images/17/chelated-magnesium-100-tabs-12623424109399_+5ac960c1c1.jpg</picture>
     <vendorCode>2023-10-5654</vendorCode>
@@ -108931,7 +108931,7 @@
     <price>1403</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>54</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/glucosamine-hyaluronic-acid-chondroitin-msm-60-tabs-73615104317821_+f948a8d93b.jpg</picture>
     <picture>https://dsn.ua/content/images/22/glucosamine-hyaluronic-acid-chondroitin-msm-60-tabs-60620469486763_+79a6e97c66.jpg</picture>
     <vendorCode>2023-10-5659</vendorCode>
@@ -108965,7 +108965,7 @@
     <price>681</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>456</quantity_in_stock>
+    <quantity_in_stock>455</quantity_in_stock>
     <picture>https://dsn.ua/content/images/24/glycine-500mg-100-vcaps-16827320563601_+4ea18aa0ee.jpg</picture>
     <picture>https://dsn.ua/content/images/24/glycine-500mg-100-vcaps-24447413030271_+e87129d62a.jpg</picture>
     <vendorCode>100-49-7475370-20</vendorCode>
@@ -108983,7 +108983,7 @@
     <price>445</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>48</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/cod-liver-oil-vitamins-ad-100-softgels-42573490240252_+be708a3342.jpg</picture>
     <picture>https://dsn.ua/content/images/25/cod-liver-oil-vitamins-ad-100-softgels-99754256277431_+37b2522271.jpg</picture>
     <vendorCode>100-26-3403086-20</vendorCode>
@@ -109202,7 +109202,7 @@
     <price>357</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/20/copper-2mg-100-caps-39821012554221_+03be741985.jpg</picture>
     <picture>https://dsn.ua/content/images/20/copper-2mg-100-caps-33237964936517_+1f0cdc869b.jpg</picture>
     <vendorCode>2023-10-5691</vendorCode>
@@ -109237,7 +109237,7 @@
     <price>918</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/tart-cherry-celery-seed-620mg-60-caps-75537008310431_+2d1a62f9e3.jpg</picture>
     <picture>https://dsn.ua/content/images/22/tart-cherry-celery-seed-620mg-60-caps-96121502101801_+0550ac1326.jpg</picture>
     <vendorCode>2023-10-5693</vendorCode>
@@ -109342,7 +109342,7 @@
     <price>755</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1644</quantity_in_stock>
+    <quantity_in_stock>1642</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/indole-3-carbinol-with-resveratrol-200mg-60-caps-16769966044598_+0177d5b854.jpg</picture>
     <picture>https://dsn.ua/content/images/40/indole-3-carbinol-with-resveratrol-200mg-60-caps-46039982723809_+d79de0c670.jpg</picture>
     <vendorCode>2023-10-5714</vendorCode>
@@ -109765,7 +109765,7 @@
     <price>1701</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>76</quantity_in_stock>
+    <quantity_in_stock>74</quantity_in_stock>
     <picture>https://dsn.ua/content/images/30/ubiquinol-coq10-100mg-60-softgels-13596588073210_+1f8555925f.jpg</picture>
     <picture>https://dsn.ua/content/images/30/ubiquinol-coq10-100mg-60-softgels-61074528252051_+44dad8965e.jpg</picture>
     <vendorCode>2023-10-5753</vendorCode>
@@ -109782,7 +109782,7 @@
     <price>1651</price>
     <currencyId>UAH</currencyId>
     <categoryId>1308</categoryId>
-    <quantity_in_stock>56</quantity_in_stock>
+    <quantity_in_stock>55</quantity_in_stock>
     <picture>https://dsn.ua/content/images/31/ubiquinol-coq10-200mg-30-softgels-16306791315120_+4340858c58.jpg</picture>
     <picture>https://dsn.ua/content/images/31/ubiquinol-coq10-200mg-30-softgels-90157682816614_+8d34187477.jpg</picture>
     <vendorCode>2023-10-5754</vendorCode>
@@ -110001,7 +110001,7 @@
     <price>1944</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/77094832620650_+61f493b33e.jpg</picture>
     <picture>https://dsn.ua/content/images/18/whey-protein-1000g-chocolate-ice-cream-79151439302374_+2bb03652aa.png</picture>
     <vendorCode>2023-10-5824</vendorCode>
@@ -110375,7 +110375,7 @@
     <price>357</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/tmg-trimethylglycine-500mg-90-caps-57881286144518_+5b6be69df7.jpg</picture>
     <picture>https://dsn.ua/content/images/1/tmg-trimethylglycine-500mg-90-caps-43849539475600_+bba76fce65.jpg</picture>
     <vendorCode>2023-10-5858</vendorCode>
@@ -110545,7 +110545,7 @@
     <price>302</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>312</quantity_in_stock>
+    <quantity_in_stock>311</quantity_in_stock>
     <picture>https://dsn.ua/content/images/11/albion-copper-2mg-60-saps-36233370898209_+c3fb7a1fc8.jpg</picture>
     <picture>https://dsn.ua/content/images/11/albion-copper-2mg-60-saps-90360608739014_+bea42019d9.jpg</picture>
     <vendorCode>2023-10-5868</vendorCode>
@@ -110715,7 +110715,7 @@
     <price>275</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>97</quantity_in_stock>
     <picture>https://dsn.ua/content/images/21/apple-cider-vinegar-120-tabs-18205266255803_+5c775d6afc.jpg</picture>
     <picture>https://dsn.ua/content/images/21/apple-cider-vinegar-120-tabs-17366704120702_+511a18263e.jpg</picture>
     <vendorCode>2023-10-5881</vendorCode>
@@ -111289,7 +111289,7 @@
     <price>1002</price>
     <currencyId>UAH</currencyId>
     <categoryId>1316</categoryId>
-    <quantity_in_stock>876</quantity_in_stock>
+    <quantity_in_stock>874</quantity_in_stock>
     <picture>https://dsn.ua/content/images/9/childrens-dha-119-ml-44076627092726_+2565f9562d.jpg</picture>
     <picture>https://dsn.ua/content/images/9/childrens-dha-119-ml-28141538248679_+1610cf81ef.jpg</picture>
     <vendorCode>2023-10-5939</vendorCode>
@@ -111306,7 +111306,7 @@
     <price>1121</price>
     <currencyId>UAH</currencyId>
     <categoryId>1316</categoryId>
-    <quantity_in_stock>372</quantity_in_stock>
+    <quantity_in_stock>371</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/nordic-omega-3-36-fishies-79525453680895_+f0ad07514f.jpg</picture>
     <picture>https://dsn.ua/content/images/10/nordic-omega-3-36-fishies-80650381219097_+681e572fcd.jpg</picture>
     <vendorCode>2023-10-5940</vendorCode>
@@ -112066,7 +112066,7 @@
     <price>1473</price>
     <currencyId>UAH</currencyId>
     <categoryId>1316</categoryId>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>62</quantity_in_stock>
     <picture>https://dsn.ua/content/images/2/epa-60-softgels-23759573196557_+dfd694cbb6.jpg</picture>
     <picture>https://dsn.ua/content/images/2/epa-60-softgels-76511001971119_+e43c6a2e94.jpg</picture>
     <picture>https://dsn.ua/content/images/2/epa-60-softgels-30843569063806_+b3df27f0b0.jpg</picture>
@@ -112510,7 +112510,7 @@
     <price>454</price>
     <currencyId>UAH</currencyId>
     <categoryId>1186</categoryId>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://dsn.ua/content/images/7/collabeauty-125-capsid-48215825115418_+dabe8dd06f.jpg</picture>
     <picture>https://dsn.ua/content/images/7/collabeauty-125-capsid-76134943042662_+6ab3df7e53.png</picture>
     <vendorCode>2023-10-6039</vendorCode>
@@ -113870,7 +113870,7 @@
     <price>324</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>233</quantity_in_stock>
+    <quantity_in_stock>232</quantity_in_stock>
     <picture>https://dsn.ua/content/images/19/taurine-1000-1000-mg-60-caps-54407073074615_+481121317d.jpg</picture>
     <picture>https://dsn.ua/content/images/19/taurine-1000-1000-mg-60-caps-59015384380781_+78c7cc8170.jpg</picture>
     <vendorCode>2023-10-6152</vendorCode>
@@ -113921,7 +113921,7 @@
     <price>420</price>
     <currencyId>UAH</currencyId>
     <categoryId>1168</categoryId>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>60</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/vitamin-e-400-iu-d-alpha-tocopherol-50-tabs-25787462940183_+2a140a46c0.jpg</picture>
     <picture>https://dsn.ua/content/images/22/vitamin-e-400-iu-d-alpha-tocopherol-50-tabs-75260363886429_+5200ed1412.jpg</picture>
     <vendorCode>2023-10-6155</vendorCode>
@@ -114431,7 +114431,7 @@
     <price>656</price>
     <currencyId>UAH</currencyId>
     <categoryId>1317</categoryId>
-    <quantity_in_stock>354</quantity_in_stock>
+    <quantity_in_stock>353</quantity_in_stock>
     <picture>https://dsn.ua/content/images/2/zinc-balance-100-caps-35728702497825_+1d9c0c74af.jpg</picture>
     <picture>https://dsn.ua/content/images/2/zinc-balance-100-caps-27493368386098_+73d02299ee.jpg</picture>
     <vendorCode>2023-10-6186</vendorCode>
@@ -114767,12 +114767,12 @@
     <param name="Категории">Сон|Мелатонин</param>
     <param name="Штрихкод">047469058654</param>
    </offer>
-   <offer id="31439" group_id="28207452" available="true">
+   <offer id="31439" group_id="28207452" available="">
     <url>https://dsn.ua/ru/melatonin-5mg-150-tabs/</url>
     <price>980</price>
     <currencyId>UAH</currencyId>
     <categoryId>1315</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>0</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/melatonin-5mg-150-tabs-52219854777296_+ee5b38f904.jpg</picture>
     <picture>https://dsn.ua/content/images/40/melatonin-5mg-150-tabs-69339546831097_+788ab30303.jpg</picture>
     <vendorCode>2023-10-6219</vendorCode>
@@ -115234,7 +115234,7 @@
     <price>851</price>
     <currencyId>UAH</currencyId>
     <categoryId>1315</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://dsn.ua/content/images/17/biotin-10000mcg-100-tabs-53679156255641_+61dfe27c9b.jpg</picture>
     <picture>https://dsn.ua/content/images/17/biotin-10000mcg-100-tabs-20524659707295_+730918289c.jpg</picture>
     <vendorCode>100-25-6725399-20</vendorCode>
@@ -115404,7 +115404,7 @@
     <price>1301</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>341</quantity_in_stock>
+    <quantity_in_stock>339</quantity_in_stock>
     <picture>https://dsn.ua/content/images/28/super-ubiquinol-coq10-with-enhanced-mitochondrial-support-100-mg-30-softgels-42357876039524_+731f79d418.jpg</picture>
     <picture>https://dsn.ua/content/images/28/super-ubiquinol-coq10-with-enhanced-mitochondrial-support-100-mg-30-softgels-94190352934902_+2d69ffa404.jpg</picture>
     <vendorCode>2023-10-6354</vendorCode>
@@ -115608,7 +115608,7 @@
     <price>874</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/lactase-enzyme-100-caps-61290539430635_+ce2e4fcb27.jpg</picture>
     <picture>https://dsn.ua/content/images/15/lactase-enzyme-100-caps-99176901345319_+28a42878c9.jpg</picture>
     <vendorCode>2023-10-6388</vendorCode>
@@ -116101,7 +116101,7 @@
     <price>765</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/total-cleanse-kidney-60-vcaps-56600799008805_+61c32348cb.jpg</picture>
     <picture>https://dsn.ua/content/images/44/total-cleanse-kidney-60-vcaps-18261598462236_+f51b5e79d6.jpg</picture>
     <vendorCode>2023-10-6417</vendorCode>
@@ -116186,7 +116186,7 @@
     <price>500</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/49/vitamin-b-2-100mg-100-vcaps-62974738904355_+fa0b179e8b.jpg</picture>
     <picture>https://dsn.ua/content/images/49/vitamin-b-2-100mg-100-vcaps-95747813601478_+3975249d6e.jpg</picture>
     <vendorCode>2023-10-6422</vendorCode>
@@ -116271,7 +116271,7 @@
     <price>802</price>
     <currencyId>UAH</currencyId>
     <categoryId>1146</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/4/magnesium-gummy-60-gummies-46632810006135_+3fc21cb31f.jpg</picture>
     <picture>https://dsn.ua/content/images/4/magnesium-gummy-60-gummies-83378927122132_+d2ce3a98f9.jpg</picture>
     <vendorCode>2023-10-6427</vendorCode>
@@ -117805,7 +117805,7 @@
     <price>941</price>
     <currencyId>UAH</currencyId>
     <categoryId>1078</categoryId>
-    <quantity_in_stock>346</quantity_in_stock>
+    <quantity_in_stock>344</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/lipo-6-black-uc-60-liquid-capsid-14931679159258_+d01687fb9b.jpg</picture>
     <picture>https://dsn.ua/content/images/42/lipo-6-black-uc-60-liquid-capsid-87570558405963_+77505809ef.jpg</picture>
     <vendorCode>100-45-0922910-20</vendorCode>
@@ -117822,7 +117822,7 @@
     <price>1096</price>
     <currencyId>UAH</currencyId>
     <categoryId>1078</categoryId>
-    <quantity_in_stock>337</quantity_in_stock>
+    <quantity_in_stock>335</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/lipo-6-black-maximum-potency-120-caps-69105362951474_+4e94eb0d11.jpg</picture>
     <picture>https://dsn.ua/content/images/43/lipo-6-black-maximum-potency-120-caps-87792556928419_+8a53c330b4.jpg</picture>
     <vendorCode>2022-10-2408</vendorCode>
@@ -118128,7 +118128,7 @@
     <price>1328</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://dsn.ua/content/images/11/extra-cookie-12x75g-chocolate-orange-56804206149217_+88a1183fb2.jpeg</picture>
     <picture>https://dsn.ua/content/images/11/extra-cookie-12x75g-chocolate-orange-73751441170721_+c06f990abd.jpeg</picture>
     <vendorCode>2023-10-6581</vendorCode>
@@ -118795,7 +118795,7 @@
     <price>544</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>1220</quantity_in_stock>
+    <quantity_in_stock>1215</quantity_in_stock>
     <picture>https://dsn.ua/content/images/48/alpha-lipoic-acid-300-mg-60-caps-17850863123308_+da9e3858cb.jpg</picture>
     <picture>https://dsn.ua/content/images/48/alpha-lipoic-acid-300-mg-60-caps-13568324832972_+33790a2a14.jpg</picture>
     <vendorCode>2023-10-6661</vendorCode>
@@ -120375,7 +120375,7 @@
     <price>841</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://dsn.ua/content/images/22/pomegranate-200mg-60-vcaps-55212883032845_+eaab478421.jpg</picture>
     <picture>https://dsn.ua/content/images/22/pomegranate-200mg-60-vcaps-90957443395158_+7c68bf3ebc.jpg</picture>
     <vendorCode>2023-10-6778</vendorCode>
@@ -120917,7 +120917,7 @@
     <price>468</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/79710324937048_+f54d88c2c1.jpg</picture>
     <vendorCode>2023-10-6944</vendorCode>
     <vendor>Brave</vendor>
@@ -120933,7 +120933,7 @@
     <price>390</price>
     <currencyId>UAH</currencyId>
     <categoryId>1179</categoryId>
-    <quantity_in_stock>62</quantity_in_stock>
+    <quantity_in_stock>61</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/water-bottle-1500-ml-82086858009081_+17dfccc062.jpg</picture>
     <vendorCode>2023-10-6945</vendorCode>
     <vendor>Brave</vendor>
@@ -122347,7 +122347,7 @@
     <price>382</price>
     <currencyId>UAH</currencyId>
     <categoryId>1154</categoryId>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>86</quantity_in_stock>
     <picture>https://dsn.ua/content/images/1/magnesium-amino-acid-chelate-220mg-100-tabs-86367040777797_+59136fa8ac.jpg</picture>
     <picture>https://dsn.ua/content/images/1/magnesium-amino-acid-chelate-220mg-100-tabs-96419372982719_+352da4e50a.jpg</picture>
     <vendorCode>2023-10-7032</vendorCode>
@@ -122516,7 +122516,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://dsn.ua/content/images/29/33142437425829_+ab857b39a5.jpg</picture>
     <picture>https://dsn.ua/content/images/29/lipobar-exclusive-50g-pistachio-77006767169853_+c083603d80.jpg</picture>
     <vendorCode>2023-10-6878</vendorCode>
@@ -122580,7 +122580,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <picture>https://dsn.ua/content/images/33/86725297334799_+1a6e9934c2.jpg</picture>
     <picture>https://dsn.ua/content/images/33/lipobar-exclusive-50g-capuccino-92747360196820_+355bd382fc.jpg</picture>
     <vendorCode>2023-10-6882</vendorCode>
@@ -122596,7 +122596,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>44</quantity_in_stock>
+    <quantity_in_stock>43</quantity_in_stock>
     <picture>https://dsn.ua/content/images/34/79303842473541_+9fa0aba646.jpg</picture>
     <picture>https://dsn.ua/content/images/34/lipobar-exclusive-50g-pomogranate-26106830329524_+27bbe212da.jpg</picture>
     <vendorCode>2023-10-6884</vendorCode>
@@ -122628,7 +122628,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/60704953940965_+88455f0fcb.jpg</picture>
     <picture>https://dsn.ua/content/images/36/lipobar-exclusive-50g-orange-80294150267522_+7374ca6db1.jpg</picture>
     <vendorCode>2023-10-6886</vendorCode>
@@ -122644,7 +122644,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>53</quantity_in_stock>
+    <quantity_in_stock>52</quantity_in_stock>
     <picture>https://dsn.ua/content/images/37/lipobar-exclusive-50g-caramel-34781737111439_+66399d225d.jpg</picture>
     <picture>https://dsn.ua/content/images/37/lipobar-exclusive-50g-caramel-44111178193085_+ab430d2e89.jpg</picture>
     <vendorCode>2023-10-6887</vendorCode>
@@ -122708,7 +122708,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>60</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/13997638262515_+dc86d56e96.jpg</picture>
     <picture>https://dsn.ua/content/images/41/lipobar-exclusive-50g-raspberry-67399936807358_+b626ac7691.jpg</picture>
     <vendorCode>2023-10-6883</vendorCode>
@@ -122724,7 +122724,7 @@
     <price>52</price>
     <currencyId>UAH</currencyId>
     <categoryId>1160</categoryId>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>44</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/exclusive-50g-strawberry-46817306276978_+e53f543aee.jpg</picture>
     <picture>https://dsn.ua/content/images/42/exclusive-50g-strawberry-42730334414286_+aca009aae5.jpg</picture>
     <vendorCode>2023-10-7054</vendorCode>
@@ -123183,7 +123183,7 @@
     <price>385</price>
     <currencyId>UAH</currencyId>
     <categoryId>1075</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/vitamin-b6-p-5-p-50mg-100-caps-46891590975166_+bca7da52da.jpg</picture>
     <picture>https://dsn.ua/content/images/6/vitamin-b6-p-5-p-50mg-100-caps-79974646601304_+79dd453426.jpg</picture>
     <vendorCode>2023-10-7192</vendorCode>
@@ -123363,7 +123363,7 @@
     <price>1488</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://dsn.ua/content/images/33/protein-bar-nutella-32-20x60g-without-sugar-macadamia-92412654654455_+95b42e7e00.jpg</picture>
     <picture>https://dsn.ua/content/images/33/protein-bar-nutella-32-20x60g-without-sugar-macadamia-26932946348199_+c2be2d1161.jpg</picture>
     <vendorCode>2023-10-7254</vendorCode>
@@ -123516,7 +123516,7 @@
     <price>759</price>
     <currencyId>UAH</currencyId>
     <categoryId>1186</categoryId>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>68</quantity_in_stock>
     <picture>https://dsn.ua/content/images/6/collagen-300g-raspberryid-54557169584786_+004d989ad9.jpg</picture>
     <picture>https://dsn.ua/content/images/6/collagen-300g-raspberryid-98836683729222_+672161c062.jpg</picture>
     <vendorCode>2023-10-7315</vendorCode>
@@ -124107,7 +124107,7 @@
     <price>816</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>122</quantity_in_stock>
+    <quantity_in_stock>121</quantity_in_stock>
     <picture>https://dsn.ua/content/images/36/68049390115821_+69744f95cf.jpg</picture>
     <picture>https://dsn.ua/content/images/36/fitwin-12x60g-duo-chocolate-34254084703374_+d094823480.png</picture>
     <vendorCode>2023-10-7374</vendorCode>
@@ -124447,7 +124447,7 @@
     <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://dsn.ua/content/images/35/origin-pre-workout-600g-strawberry-laces-64479001065057_+10ae775048.png</picture>
     <picture>https://dsn.ua/content/images/35/origin-pre-workout-600g-strawberry-laces-93288845008592_+5027b07186.png</picture>
     <vendorCode>2023-10-7394</vendorCode>
@@ -128251,7 +128251,7 @@
     <price>1155</price>
     <currencyId>UAH</currencyId>
     <categoryId>1056</categoryId>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <picture>https://dsn.ua/content/images/18/origin-pre-workout-stim-free-sour-30-serv-orange-mango-35321145626176_+69cda73f1b.jpg</picture>
     <picture>https://dsn.ua/content/images/18/origin-pre-workout-stim-free-sour-30-serv-orange-mango-93874262249531_+84a9c8467e.jpg</picture>
     <vendorCode>2023-10-7591</vendorCode>
@@ -134777,7 +134777,7 @@
     <price>242</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <picture>https://dsn.ua/content/images/10/pure-coq10-30mg-60-vcaps-poshkodzhena-etyketka-18858528876589_+8ae2e3ee21.jpg</picture>
     <picture>https://dsn.ua/content/images/10/pure-coq10-30mg-60-vcaps-poshkodzhena-etyketka-19877263834920_+e46f0e013a.jpg</picture>
     <vendorCode>2023-10-7977</vendorCode>
@@ -135638,7 +135638,7 @@
     <price>900</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>89</quantity_in_stock>
+    <quantity_in_stock>88</quantity_in_stock>
     <picture>https://dsn.ua/content/images/15/dubai-bar-25-sugar-free-10kh50g-chocolate-66632689430220_+0ce0b1c148.jpg</picture>
     <picture>https://dsn.ua/content/images/15/dubai-bar-25-sugar-free-10kh50g-chocolate-63949289685181_+96490e4bd2.jpg</picture>
     <vendorCode>2024-11-0017</vendorCode>
@@ -138445,7 +138445,7 @@
     <price>1600</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://dsn.ua/content/images/39/whey-900g-berry-punch-82177509643983_+af62f16332.jpg</picture>
     <picture>https://dsn.ua/content/images/39/whey-900g-berry-punch-26582453516159_+1cd951054d.jpg</picture>
     <vendorCode>2024-11-0211</vendorCode>
@@ -143721,7 +143721,7 @@
     <price>1665</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/coenzyme-b-complex-with-alpha-lipoic-acid-and-coq10-120-vcaps-77610647155906_+7b91a35949.jpg</picture>
     <picture>https://dsn.ua/content/images/43/coenzyme-b-complex-with-alpha-lipoic-acid-and-coq10-120-vcaps-34527681381536_+d46944bbeb.jpg</picture>
     <vendorCode>2024-11-0606</vendorCode>
@@ -146049,7 +146049,7 @@
     <price>598</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://dsn.ua/content/images/40/monolaurin-500mg-60-vcaps-do-02.27-27971807967335_+58e33c3b55.jpg</picture>
     <picture>https://dsn.ua/content/images/40/monolaurin-500mg-60-vcaps-do-02.27-88523829857152_+5f335f83b6.png</picture>
     <vendorCode>2024-11-0763</vendorCode>
@@ -146065,7 +146065,7 @@
     <price>837</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>83</quantity_in_stock>
+    <quantity_in_stock>81</quantity_in_stock>
     <picture>https://dsn.ua/content/images/41/titan-bar-9x85g-cherry-brownie-94191514143654_+6359601344.jpg</picture>
     <picture>https://dsn.ua/content/images/41/titan-bar-9x85g-cherry-brownie-60419434582387_+0967efafd5.jpg</picture>
     <vendorCode>2024-11-0765</vendorCode>
@@ -146082,7 +146082,7 @@
     <price>837</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>74</quantity_in_stock>
+    <quantity_in_stock>72</quantity_in_stock>
     <picture>https://dsn.ua/content/images/42/titan-bar-9x85g-caramel-popcorn-49973944830281_+b9de0d394f.jpg</picture>
     <picture>https://dsn.ua/content/images/42/titan-bar-9x85g-caramel-popcorn-16844366122591_+06bce4c246.jpg</picture>
     <picture>https://dsn.ua/content/images/42/titan-bar-9x85g-caramel-popcorn-59733310675436_+db85bac66e.jpg</picture>
@@ -146100,7 +146100,7 @@
     <price>837</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>65</quantity_in_stock>
+    <quantity_in_stock>63</quantity_in_stock>
     <picture>https://dsn.ua/content/images/43/titan-bar-9x85g-butter-cookie-39415074681051_+94bc67710d.jpg</picture>
     <picture>https://dsn.ua/content/images/43/titan-bar-9x85g-butter-cookie-34238093513205_+8471b90ce2.jpg</picture>
     <picture>https://dsn.ua/content/images/43/titan-bar-9x85g-butter-cookie-85230639042778_+f9e473ce6f.jpg</picture>
@@ -146118,7 +146118,7 @@
     <price>837</price>
     <currencyId>UAH</currencyId>
     <categoryId>1182</categoryId>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>97</quantity_in_stock>
     <picture>https://dsn.ua/content/images/44/titan-bar-9x85g-strawberry-banana-36186259201625_+e2971b621c.jpg</picture>
     <picture>https://dsn.ua/content/images/44/titan-bar-9x85g-strawberry-banana-66229953934477_+4eebe67728.jpg</picture>
     <picture>https://dsn.ua/content/images/44/titan-bar-9x85g-strawberry-banana-61561062934501_+75b259bc23.jpg</picture>
@@ -149661,7 +149661,7 @@
     <price>333</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>401</quantity_in_stock>
+    <quantity_in_stock>400</quantity_in_stock>
     <picture>https://dsn.ua/content/images/25/zinc-picolinate-25mg-60-tabs-46885841870862_+657c88d280.png</picture>
     <picture>https://dsn.ua/content/images/25/zinc-picolinate-25mg-60-tabs-98626640557650_+f00c888c78.png</picture>
     <vendorCode>2024-11-1049</vendorCode>
@@ -150114,7 +150114,7 @@
     <price>402</price>
     <currencyId>UAH</currencyId>
     <categoryId>1143</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://dsn.ua/content/images/4/high-potency-optimized-folate-8500-mcg-dfe-30-tabs-do-03.27-23136491760352_+aeeeccc39b.jpg</picture>
     <picture>https://dsn.ua/content/images/4/high-potency-optimized-folate-8500-mcg-dfe-30-tabs-do-03.27-56229182041717_+641354fd05.jpg</picture>
     <vendorCode>2024-11-1078</vendorCode>
